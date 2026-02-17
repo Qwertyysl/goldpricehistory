@@ -42,15 +42,8 @@ jobs:
             -H "User-Agent: Mozilla/5.0" \
             https://data-asg.goldprice.org/dbXRates/MYR || true)
 
-          if [ -z "$RESPONSE" ]; then
-            echo "Empty response."
-            exit 0
-          fi
-
-          if echo "$RESPONSE" | grep -q "<html"; then
-            echo "Blocked (HTML returned)."
-            exit 0
-          fi
+          if [ -z "$RESPONSE" ]; then exit 0; fi
+          if echo "$RESPONSE" | grep -q "<html"; then exit 0; fi
 
           RAW_PRICE=$(echo "$RESPONSE" | jq -r '
             .items[0].y //
@@ -60,10 +53,7 @@ jobs:
             empty
           ')
 
-          if [ -z "$RAW_PRICE" ]; then
-            echo "Price not found."
-            exit 0
-          fi
+          if [ -z "$RAW_PRICE" ]; then exit 0; fi
 
           PRICE=$(echo "$RAW_PRICE / 31.1034768" | bc -l)
           PRICE=$(printf "%.2f" "$PRICE")
@@ -89,67 +79,76 @@ jobs:
           jq '.[-144:]' gold_7d.json > gold_24h.json
 
 
+# ================= PLAYWRIGHT SETUP =================
+
+      - name: Setup Node
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+
+      - name: Install Playwright
+        run: |
+          npm init -y
+          npm install playwright
+          npx playwright install chromium
+
+
 # ================= MIGA SECTION =================
 
-      - name: Fetch MIGA below 100g
+      - name: Fetch MIGA below 100g (Playwright)
         run: |
-          echo "Fetching MIGA page..."
+          cat << 'EOF' > scrape.js
+          const { chromium } = require('playwright');
+          const fs = require('fs');
 
-          HTML=$(curl -s -L \
-            --http1.1 \
-            --retry 5 \
-            --retry-delay 5 \
-            --retry-connrefused \
-            --connect-timeout 30 \
-            --max-time 90 \
-            --compressed \
-            -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36" \
-            -H "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8" \
-            -H "Accept-Language: en-US,en;q=0.9" \
-            -H "Connection: keep-alive" \
-            -H "Upgrade-Insecure-Requests: 1" \
-            -H "Referer: https://www.google.com/" \
-            https://www.maybank2u.com.my/maybank2u/malaysia/en/personal/rates/gold_and_silver.page || true)
+          (async () => {
+            try {
+              const browser = await chromium.launch({ headless: true });
+              const page = await browser.newPage();
 
-          if [ -z "$HTML" ]; then
-            echo "MIGA timeout or blocked."
-            exit 0
-          fi
+              await page.goto(
+                'https://www.maybank2u.com.my/maybank2u/malaysia/en/personal/rates/gold_and_silver.page',
+                { waitUntil: 'networkidle', timeout: 60000 }
+              );
 
-          if echo "$HTML" | grep -qi "access denied"; then
-            echo "Blocked by Maybank."
-            exit 0
-          fi
+              const row = page.locator('tr:has-text("For below 100 grams")').first();
 
-          # Flatten HTML
-          FLAT=$(echo "$HTML" | tr '\n' ' ')
+              if (!(await row.count())) {
+                console.log("Row not found.");
+                await browser.close();
+                process.exit(0);
+              }
 
-          # Extract below 100g row
-          ROW=$(echo "$FLAT" | grep -oP '<tr>\s*<td>\s*For\s*below\s*100\s*grams.*?<\/tr>')
+              const cells = await row.locator('td').allTextContents();
 
-          if [ -z "$ROW" ]; then
-            echo "Below 100g row not found."
-            exit 0
-          fi
+              if (cells.length < 3) {
+                console.log("Invalid row structure.");
+                await browser.close();
+                process.exit(0);
+              }
 
-          SELL=$(echo "$ROW" | grep -oP '<td>\K[0-9]+\.[0-9]+' | sed -n '1p')
-          BUY=$(echo "$ROW" | grep -oP '<td>\K[0-9]+\.[0-9]+' | sed -n '2p')
+              const sell = parseFloat(cells[1]);
+              const buy = parseFloat(cells[2]);
 
-          if [ -z "$SELL" ] || [ -z "$BUY" ]; then
-            echo "Price extraction failed."
-            exit 0
-          fi
+              const data = {
+                timestamp: Math.floor(Date.now() / 1000),
+                sell,
+                buy
+              };
 
-          TIMESTAMP=$(date +%s)
+              fs.writeFileSync('miga_latest.json', JSON.stringify(data, null, 2));
 
-          MIGA=$(jq -n \
-            --arg ts "$TIMESTAMP" \
-            --arg sell "$SELL" \
-            --arg buy "$BUY" \
-            '{timestamp: ($ts|tonumber), sell: ($sell|tonumber), buy: ($buy|tonumber)}')
+              console.log("MIGA updated:", data);
 
-          echo "$MIGA" > miga_latest.json
-          echo "MIGA updated: $MIGA"
+              await browser.close();
+            } catch (err) {
+              console.log("Playwright error:", err.message);
+              process.exit(0);
+            }
+          })();
+          EOF
+
+          node scrape.js
 
 
 # ================= COMMIT =================
