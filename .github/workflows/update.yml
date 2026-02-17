@@ -104,20 +104,26 @@ jobs:
           
           jq '.[-144:]' gold_7d.json > gold_24h.json
           
-      - name: Commit and push if changed
+      - name: Commit and push (safe mode)
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-
-          # Pull latest changes first
-          git pull origin main --rebase
 
           git add gold_7d.json gold_24h.json latest.json
 
           if git diff --cached --quiet; then
             echo "No changes."
-          else
-            git commit -m "Auto update gold data"
-            git push origin main
+            exit 0
           fi
+
+          git commit -m "Auto update gold data"
+
+          # Fetch latest remote state
+          git fetch origin main
+
+          # Rebase on top of remote
+          git rebase origin/main
+
+          # Push safely
+          git push origin main
 
