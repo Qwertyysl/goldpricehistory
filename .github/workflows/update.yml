@@ -16,10 +16,10 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Install jq
+      - name: Install jq & bc
         run: |
           sudo apt-get update
-          sudo apt-get install -y jq
+          sudo apt-get install -y jq bc
 
       - name: Ensure files exist
         run: |
@@ -27,7 +27,7 @@ jobs:
           [ -f gold_24h.json ] || echo "[]" > gold_24h.json
           [ -f latest.json ] || echo "{}" > latest.json
 
-      - name: Fetch gold price (browser mimic mode)
+      - name: Fetch gold price (convert to RM/g)
         run: |
           echo "Fetching gold API..."
 
@@ -55,7 +55,7 @@ jobs:
 
           echo "$RESPONSE" | jq . > /dev/null 2>&1 || exit 0
 
-          PRICE=$(echo "$RESPONSE" | jq -r '
+          RAW_PRICE=$(echo "$RESPONSE" | jq -r '
             .items[0].y //
             .items[0].xauPrice //
             .items[0].price //
@@ -63,10 +63,16 @@ jobs:
             empty
           ')
 
-          if [ -z "$PRICE" ]; then
+          if [ -z "$RAW_PRICE" ]; then
             echo "Price not found."
             exit 0
           fi
+
+          # Convert MYR per troy ounce -> MYR per gram
+          PRICE=$(echo "$RAW_PRICE / 31.1034768" | bc -l)
+
+          # Round to 2 decimal places
+          PRICE=$(printf "%.2f" "$PRICE")
 
           TIMESTAMP=$(date +%s)
 
@@ -100,6 +106,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes."
           else
-            git commit -m "Auto update gold data"
+            git commit -m "Auto update gold data (RM/g)"
             git push
           fi
