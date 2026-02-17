@@ -1,0 +1,102 @@
+name: Update Gold Prices
+
+on:
+  schedule:
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-prices:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Fetch and process data
+        run: |
+          # 1. Fetch data
+          URL="https://data-asg.goldprice.org/dbXRates/MYR"
+          response=$(curl -s -H "User-Agent: Mozilla/5.0" -H "Accept: application/json" "$URL")
+
+          # 2. Validate response
+          if [[ -z "$response" ]]; then
+            echo "Error: Empty response"
+            exit 0
+          fi
+          
+          if [[ "$response" == *"<html>"* || "$response" == *"<!DOCTYPE"* ]]; then
+            echo "Error: HTML content detected"
+            exit 0
+          fi
+          
+          if ! echo "$response" | jq empty > /dev/null 2>&1; then
+            echo "Error: Invalid JSON"
+            exit 0
+          fi
+
+          # 3. Extract price and timestamp
+          # Try extraction paths
+          PRICE=$(echo "$response" | jq -r '
+            .items[0].y // 
+            .items[0].xauPrice // 
+            .items[0].price // 
+            .price // 
+            empty
+          ')
+          
+          TS=$(echo "$response" | jq -r '
+            .items[0].x // 
+            .items[0].timestamp // 
+            .timestamp // 
+            empty
+          ')
+          
+          if [[ -z "$PRICE" || "$PRICE" == "null" ]]; then
+            echo "Error: Could not extract price"
+            exit 0
+          fi
+
+          # Fallback timestamp (current time in seconds if not found)
+          if [[ -z "$TS" || "$TS" == "null" ]]; then
+            TS=$(date +%s)
+          fi
+
+          echo "Extracted Price: $PRICE"
+          echo "Extracted Timestamp: $TS"
+
+          # 4. Create/Update latest.json
+          # Create a temporary file for the new object
+          # Use jq to ensure safe JSON creation
+          jq -n --arg price "$PRICE" --arg ts "$TS" \
+            '{"price": ($price|tonumber? // $price), "timestamp": ($ts|tonumber? // $ts)}' > latest.json
+
+          # 5. Update gold_7d.json (history)
+          if [[ ! -f gold_7d.json ]]; then
+            echo "[]" > gold_7d.json
+          fi
+
+          # Append, unique by timestamp, sort, and keep last 1008 records
+          jq --arg price "$PRICE" --arg ts "$TS" \
+             '. + [{"price": ($price|tonumber? // $price), "timestamp": ($ts|tonumber? // $ts)}] | unique_by(.timestamp) | sort_by(.timestamp) | .[-1008:]' \
+             gold_7d.json > gold_7d.json.tmp && mv gold_7d.json.tmp gold_7d.json
+
+          # 6. Create gold_24h.json (last 144 records from history)
+          jq '.[-144:]' gold_7d.json > gold_24h.json
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          git add latest.json gold_7d.json gold_24h.json
+          
+          # Only commit if there are changes
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update gold prices: $(date -u)"
+            git push
+          fi
