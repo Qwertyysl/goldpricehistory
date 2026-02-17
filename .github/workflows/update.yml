@@ -5,7 +5,7 @@ permissions:
 
 on:
   schedule:
-    - cron: '* * * * *'
+    - cron: '*/10 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -13,12 +13,24 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
       - name: Install jq
         run: sudo apt-get update && sudo apt-get install -y jq
 
-      - name: Fetch gold price
-        id: fetch
+      - name: Ensure JSON files exist
         run: |
+          [ -f gold_7d.json ] || echo "[]" > gold_7d.json
+          [ -f gold_24h.json ] || echo "[]" > gold_24h.json
+          [ -f latest.json ] || echo "{}" > latest.json
+
+      - name: Fetch gold price
+        run: |
+          echo "Fetching gold API..."
+
           RESPONSE=$(curl -s -L \
             -H "User-Agent: Mozilla/5.0" \
             -H "Accept: application/json" \
@@ -26,80 +38,48 @@ jobs:
 
           echo "$RESPONSE" | jq . > /dev/null 2>&1 || exit 0
 
-          PRICE=$(echo "$RESPONSE" | jq -r '
-            .items[0].y //
-            .items[0].xauPrice //
-            .items[0].price //
-            .price //
-            empty
-          ')
+          PRICE=$(echo "$RESPONSE" | jq -r '.items[0].y // .items[0].xauPrice // .items[0].price // .price')
 
-          TIMESTAMP=$(echo "$RESPONSE" | jq -r '
-            .items[0].x //
-            .items[0].timestamp //
-            .timestamp //
-            (now | floor)
-          ')
+          if [ -z "$PRICE" ] || [ "$PRICE" = "null" ]; then
+            echo "Price not found."
+            exit 0
+          fi
 
-          [ -z "$PRICE" ] && exit 0
+          TIMESTAMP=$(date +%s)
 
           NEW=$(jq -n \
             --arg ts "$TIMESTAMP" \
             --arg pr "$PRICE" \
             '{timestamp: ($ts|tonumber), price: ($pr|tonumber)}')
 
-          echo "new=$NEW" >> $GITHUB_OUTPUT
+          echo "New data: $NEW"
 
-      - name: Update files via GitHub API
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          REPO="${{ github.repository }}"
-          API="https://api.github.com/repos/$REPO/contents"
+          echo "$NEW" > latest.json
 
-          NEW='${{ steps.fetch.outputs.new }}'
-
-          [ -z "$NEW" ] && exit 0
-
-          update_file () {
-            FILE=$1
-            CONTENT=$2
-
-            SHA=$(curl -s \
-              -H "Authorization: Bearer $GH_TOKEN" \
-              $API/$FILE | jq -r '.sha // empty')
-
-            BASE64=$(echo "$CONTENT" | base64 -w 0)
-
-            curl -s -X PUT \
-              -H "Authorization: Bearer $GH_TOKEN" \
-              -H "Accept: application/vnd.github+json" \
-              $API/$FILE \
-              -d "{
-                \"message\": \"Auto update gold data\",
-                \"content\": \"$BASE64\",
-                \"sha\": \"$SHA\"
-              }"
-          }
-
-          # Get existing 7d data
-          EXISTING=$(curl -s \
-            -H "Authorization: Bearer $GH_TOKEN" \
-            $API/gold_7d.json | jq -r '.content // empty' | base64 -d 2>/dev/null)
-
-          [ -z "$EXISTING" ] && EXISTING="[]"
-
-          LAST_TS=$(echo "$EXISTING" | jq '.[-1].timestamp // 0')
+          LAST_TS=$(jq '.[-1].timestamp // 0' gold_7d.json)
           CURRENT_TS=$(echo "$NEW" | jq '.timestamp')
 
           if [ "$CURRENT_TS" != "$LAST_TS" ]; then
-            UPDATED=$(echo "$EXISTING" | jq ". += [$NEW]" | jq '.[-1008:]')
-          else
-            UPDATED="$EXISTING"
+            jq ". += [$NEW]" gold_7d.json > tmp.json
+            jq '.[-1008:]' tmp.json > gold_7d.json
+            rm tmp.json
           fi
 
-          UPDATE_24H=$(echo "$UPDATED" | jq '.[-144:]')
+          jq '.[-144:]' gold_7d.json > gold_24h.json
 
-          update_file gold_7d.json "$UPDATED"
-          update_file gold_24h.json "$UPDATE_24H"
-          update_file latest.json "$NEW"
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+
+          git pull --rebase
+
+          git add gold_7d.json gold_24h.json latest.json
+
+          if git diff --cached --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+
+          git commit -m "Auto update gold data"
+          git push
