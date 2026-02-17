@@ -108,27 +108,34 @@ jobs:
 
               await page.goto(
                 'https://www.maybank2u.com.my/maybank2u/malaysia/en/personal/rates/gold_and_silver.page',
-                { waitUntil: 'networkidle', timeout: 60000 }
+                { waitUntil: 'domcontentloaded', timeout: 60000 }
               );
 
-              const row = page.locator('tr:has-text("For below 100 grams")').first();
+              await page.waitForSelector('table', { timeout: 30000 });
 
-              if (!(await row.count())) {
-                console.log("Row not found.");
+              const rows = await page.locator('table tr').all();
+
+              let sell = null;
+              let buy = null;
+
+              for (const row of rows) {
+                const text = await row.innerText();
+
+                if (text.toLowerCase().includes('below')) {
+                  const numbers = text.match(/[0-9]+\.[0-9]+/g);
+                  if (numbers && numbers.length >= 2) {
+                    sell = parseFloat(numbers[0]);
+                    buy = parseFloat(numbers[1]);
+                    break;
+                  }
+                }
+              }
+
+              if (!sell || !buy) {
+                console.log("Below 100g prices not found.");
                 await browser.close();
                 process.exit(0);
               }
-
-              const cells = await row.locator('td').allTextContents();
-
-              if (cells.length < 3) {
-                console.log("Invalid row structure.");
-                await browser.close();
-                process.exit(0);
-              }
-
-              const sell = parseFloat(cells[1]);
-              const buy = parseFloat(cells[2]);
 
               const data = {
                 timestamp: Math.floor(Date.now() / 1000),
@@ -141,6 +148,7 @@ jobs:
               console.log("MIGA updated:", data);
 
               await browser.close();
+
             } catch (err) {
               console.log("Playwright error:", err.message);
               process.exit(0);
