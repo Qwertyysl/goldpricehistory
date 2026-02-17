@@ -1,0 +1,1792 @@
+TERMS AND CONDITIONS GOVERNING THE MAYBANK ISLAMIC GOLD ACCOUNT-i (MIGA-i) PRODUCT
+These terms and conditions (“Terms and Conditions”) as amended from time to time, sets out the terms
+and conditions governing your Maybank Islamic Gold Account-i (MIGA-i) with Maybank Islamic Berhad
+(Company No. 200701029411). By opening and using your MIGA-i, you accept and agree to abide by these
+Terms and Conditions and any subsequent changes to it. Please read this document carefully.
+1. DEFINITIONS
+“Agent” refers to the appointment of the Bank as an agent to manage and operate MIGA-i by you.
+“Amendment” refers to any such variations, additions, deletions, modification or amendments which will
+be binding on you.
+“Anti-Corruption Laws” means all applicable laws, rules and regulations relating to bribery and
+corruption including Malaysian Anti-Corruption Commission Act 2009, the US Foreign Corrupt Practices
+Act of 1977, the UK Bribery Act 2010.
+“Anti-Money Laundering Laws” means all applicable laws and regulations relating to anti-money
+laundering, anti-terrorism financing and proceeds of unlawful activities including the Anti-Money
+Laundering, Anti-Terrorism Financing and Proceeds of Unlawful Activities 2001.
+“Authorities” include but is not limited to Bank Negara Malaysia, the Police or any other statutory or
+regulatory authorities whether local or international.
+“Authorities’ Directives” means an instruction provided by the Authorities to do or refrain the Bank from
+performing any transaction under the MIGA-i regardless of whether the Authorities have the legal or valid
+authority to do so.
+“Authorised Signatory” means the person to whom the mandate/authorization is given by you or other
+persons (for joint account holders) to manage and operate MIGA-i;
+“Bank” refers to Maybank Islamic Berhad (Company No. 200701029411)
+“Bank Negara Malaysia” means the Central Bank of Malaysia.
+“Banking Account” means all types Islamic Saving Account, Islamic Current Account, Islamic Master
+Foreign Currency Account (“MFCA-i”), as defined below which will include Trade MFCA-i and Investment
+MFCA-i, Islamic Term Deposit Account, Islamic Special Deposit Facility Account (if applicable) and each
+and every other Islamic account which is offered by the Bank and which is maintained by you with the
+Bank.
+“Business Day” refers to normal business hours on a calendar day when the Bank will be open to the
+public to conduct banking business as defined in the Islamic Financial Services Act (FSA) 2013.
+“CASA” refers to full-fledged Current Account and/or Saving Account opened by you with thumbprint
+verification over the counter at any Maybank branches.
+“Courier Services” refers to the Gold Vendor to appoint a registered courier company to deliver the
+Physical Minted Gold Bar to the beneficiaries that has been provided by you.
+“Designated CASA” refers to CASA that will be tagged and linked with the MIGA-i to facilitate a
+transaction of debiting the Agent fee and crediting any excess amount derived from the Agent fee
+recovery process.
+“Electronic Banking Services” means the electronic banking services provided by the Bank which enables
+you to communicate with, obtain information from or give instructions and authorisations to the Bank
+using electronic devices such as computers, telephones, smartphones and tablets through channels such
+as phone banking, Maybank2u and Self Service Terminal (SST).
+Page | 2
+“Force Majeure” means events or situations beyond the control of the Bank which continues for three
+(3) months or more including:
+(a) earthquakes, floods, fire, plague, pandemic, and other natural disasters; and/or
+(b) terrorism, riots, civil commotion or disturbances, war (whether declared or not) and strikes.
+“Future Order” refers to prospective purchase and/or sale of Gold based on Gold price specified by
+you.
+“Gold” refers to 999.9 purity of physical gold with accreditation by London Bullion Market Associations
+(LBMA).
+“Gold Vendor” refers to the company who are involved in the gold business that has been appointed by
+the Bank (at its discretion) to supply the gold.
+“Gold Redemption” refers to a redemption of your ownership in the MIGA-i to the Physical Minted Gold
+Bar and /or Physical Cast Gold Bar and it does not involve any buy and/or sell transactions.
+“Initial Purchase” refers to initial purchase made by you during the account opening of MIGA-i.
+“Insolvency Matter” means an act of bankruptcy, and/or petition for winding up or bankruptcy which has
+been presented against you, and/or any one or more of you, or any of those who are signatories to the
+MIGA-i is adjudicated bankrupt.
+“Joint Account” refers to MIGA-i opened in the several names that comprises of not more than four (4)
+persons in total.
+“MIGA-i” refers to Maybank Islamic Gold Account-i registered under your name, to perform any Gold
+transactions.
+“Maybank2u” refers to internet banking services provided by the Bank.
+“Maybank Group” means, collectively, the Bank, its affiliates, and any related companies of the Bank
+as well as associated companies of the Bank or of its parent company.
+“Minor” means individual below 18 years old.
+"MyKad" refers to the Malaysian National Registration Identity Card.
+“PDPA” refers to the Personal Data Protection Act 2010 and the rules and regulations issued pursuant
+thereto;
+“Physical Cast Gold Bar” means 999.9 purity of physical gold products with weight 1,000 grams per bar
+produced by refineries. They are in the form of bars and carry simple designs with accreditation by
+London Bullion Market Associations (LBMA).
+“Physical Minted Gold Bar” means refined gold bars that have intricate aesthetic designs with different
+weights and sizes, and marked with details such as manufacturer’s name, weight, purity of 999.9, serial
+number and accredited by London Bullion Market Associations (LBMA).
+“Appointment Services” refers to the Gold Vendor to deliver and/or collect the Physical Cast Gold Bar
+to you through appointment at selected Maybank branches.
+“Purchase Transaction Limit” refers to a maximum purchase limit of 3,000 grams of Gold per transaction
+and cumulative 10,000 grams of Gold per day for each MIGA-i.
+“RM” refers to Ringgit Malaysia
+“Sale Transaction Limit” refers to a maximum sale limit of 3,000 grams of Gold per transaction and
+cumulative 10,000 grams of Gold per day per MIGA-i.
+Page | 3
+“Sanctions Law” means any sanctions directive or order administered or enforced from time to time by
+Malaysia, the United States (in particular sanctions administered through US’. Department of Treasury’s
+Office of Foreign Assets Control (“OFAC”)), the United Nations Security Council, the European Union or
+other authorities against any individuals or entities which are located, organized or resident in a
+designated country or territory;
+“Security Details” includes Electronic Banking Password, PIN and any other confidential information,
+security codes and/or security devices used in relation to a Banking Account and MIGA-i.
+“Security Vault Service Provider” refers to the company appointed by the Bank (at its discretion) to
+safe keep the Physical Cast Gold Bar.
+“Sell Back of the Physical Gold Bar” refers to the redeemed Physical Minted Gold Bar and/or Physical
+Cast Gold Bar from the Bank that will be bought by the Bank based on the Bank buying price at the
+prevailing market price.
+“SMS” means Short Messaging System.
+“Special Delivery Services” refers to the Gold Vendor to deliver the Physical Minted Gold Bar and/or
+Physical Cast Gold Bar to the beneficiaries that has been provided by you.
+“Terms and Conditions” refers to the terms and conditions herein, as may be amended from time to time
+by the Bank in accordance with the terms hereof.
+“Telecommunication Confirmation” refers to the Bank is authorised to rely and act on the confirmation
+received by the Bank from you on any information requested via telephone.
+“Transaction Hours” refers to period between 8:30 a.m and 11:59 p.m Monday to Sunday, including
+national public holidays in accordance to Federal Territory calendar.
+“You, your or yours” refers to the account holder(s) named in the MIGA-i, including that person’s
+successors in title and permitted assignees.
+2. INTERPRETATION
+Any reference in these Terms and Condition to:
+(a) a party refers to the account holder holding the MIGA-i including that person’s successors in title
+and permitted assigns;
+(b) words importing the singular will include the plural and vice versa and words importing any
+gender will include every gender;
+(c) the subtitle headings and the division of provisions into sections and clauses in these Terms and
+Conditions are for ease of reference only and will not be considered in the interpretation of the
+substantive provisions of these Terms and Conditions;
+(d) where a word or phrase is given a particular meaning, other parts of speech and grammatical
+forms of that word or phrase will have the corresponding meanings;
+(e) “person” includes any natural persons and Organisations;
+(f) where there are two (2) or more persons or parties included or comprised in the expression “you”
+or “Account holder”, these Terms and Conditions will be binding upon such persons or parties
+jointly and severally;
+(g) words applicable to natural persons will also apply to Organisations; and
+(h) any reference to any Act or statute is a reference to that Act or statute as amended,consolidated
+or re-enacted from time to time.
+Page | 4
+3. APPLICABLE SHARIAH CONTRACT
+You acknowledge that the applicable Shariah contracts shall be as follows:
+a) Musawamah: an ordinary sale which refers to the transaction where the payment and delivery of gold
+must be immediate between the Bank and you.
+b) Wa’ad: where you promise to purchase the gold through the debiting of your current or savings
+account. Upon your request via purchase order, the Bank would purchase the gold. The Bank will sell
+the gold to you. Your current or savings account will be debited amounting to the bank’s sale price.
+Subsequently, your gold account will be credited at gold purchase price.
+c) Ujrah: A fee charged imposed by the Bank for a service such as redemption with physical gold,
+delivery of physical gold via courier and special delivery, buy, sell & transfer of gold performed via
+Over-The-Counter (OTC) at the branches, and as an agent to find a security vault service provider to
+safe keep your gold.
+d) Wakalah: You appoint the Bank as an agent to find and arrange with a third party security vault
+service provider to safe keep your physical gold bar and appoint the Bank to execute your future
+order transaction.
+4. PURPOSE OF MIGA-i
+4.1 You may from time to time purchase and/or sell the Gold through the MIGA-i in accordance with
+these Terms and Conditions.
+5. ACCOUNT OPENING
+5.1 To open the MIGA-i, you will execute and provide the Bank your specimen signature(s) and any other
+document(s) as required by the Bank for the operation of the MIGA-i. After due completion and delivery
+to the Bank of such documents, the Bank will process your initial purchase. The MIGA-i transactions slips
+and/or monthly e-statement will be issued to you to record entries of all transactions through your
+account for your reference.
+5.2 You represent and warrant that:
+a) you are 18 years old and above and am/are not of unsound mind (individual customer) or Sole
+proprietorship (company);
+b) you are not an undischarged bankrupt or not a wound up company or no pending winding up petition
+filed against you;
+c) you have full rights, power and authority to make purchase, sale, redeem and transfer of Gold and
+to enter into and exercise your rights and perform your obligations under these Terms and Conditions;
+d) the obligations created under these Terms and Conditions are valid, legally binding and enforceable
+against you;
+e) all actions, conditions and things required to be taken, fulfilled and done (including the obtaining of
+any necessary consents) in order to enable you to lawfully enter into, exercise your rights and perform
+and comply with your obligations under these Terms and Conditions, to ensure that those obligations
+are legally binding and enforceable to make these Terms and Conditions admissible in evidence have
+been taken, fulfilled and done;
+f) your entry into, exercise of your rights and/or performance of our compliance with your obligations
+under these Terms and Conditions do not and will not violate :
+i. any law to which you are subject to; or
+ii. any of the documents constituting it; or
+iii. any other terms and conditions to which you are party to;
+g) no litigation, arbitration or administrative proceeding is current, pending, threatened or anticipated
+which could:
+i. restrain your entry into, performance of or compliance with or enforcement or your obligations
+under these Terms and Conditions; or
+ii. have a material adverse effect on your performance or compliance with or enforcement of your
+obligations under these Terms and Conditions.
+h) the parent (s) or the court appointed guardian(s) of the Minor and you will act as the trustee (s) of
+Page | 5
+the Minor in respect of the MIGA-i.
+i) you are not one of the parties sanctioned by the Government of Malaysia, UNSC or the Respective
+Host Country Authority such as follows; Afghanistan, Hong Kong, Balkans, Belarus, Cuba, Burma,
+Central African Republic, Iran, North Korea, Syria, Mali, Sudan South, Sudan, Libya, Yemen, Guinea
+Bissau, Somalia, Eritrea, Lebanon, Republic of Congo, Iraq reconstruction, Iraq, Rusia, Ukraine,
+Nicaragua, Venezuela and Zimbabwe.
+Reliance and Repetition: You hereby acknowledge and agree that the Bank has executed these Terms
+and Conditions on the basis of and in full reliance on each of the representations and warranties above
+and hereby represent and warrant to the Bank and for the Bank’s benefit that each of the representations
+in this Clause 5.2 will be extended to cover each and every Gold purchase, sale, redemption and transfer
+between the Bank and you.
+You acknowledge that the MIGA-i will be governed by and subject to these Terms and Conditions, and the
+General Terms and Conditions Governing Islamic Deposit, as amended, varied and/or reviewedfrom time
+to time by the Bank upon giving twenty one (21) calendar days prior notice. In the event of any conflict or
+discrepancy between any of the terms and conditions, these Terms and Conditions will prevail and be
+deemed as binding on you.
+5.3 For the purpose of making full settlement or payment of Gold purchased and/or sold and/or
+redeemed and/or any transactions related to MIGA-i, you undertake to open and maintain a CASA with
+the Bank (which will be the Designated CASA for the purpose of these Terms and Conditions). You
+authorize the Bank to debit your CASA for the settlement of your purchase of Gold and/or such other
+fees and/or charges under these Terms and Conditions and to debit and/or credit the Designated CASA
+for any Agent fee as you may incur under the MIGA-i. You further acknowledge and agree that the Bank
+may reject your application for opening of MIGA-i if you fail, refuse and/or omit to open the CASA with
+the Bank.
+5.4 For the Joint Accounts, you agree to be bound by the following:
+a) (applicable to MIGA-i opened in several names not exceeding four (4) persons), you will be entitled
+or permitted to purchase, sale, redeem and/or transfer Gold. You also understand that all
+obligations, powers, authorities and liabilities contained in these Terms and Conditions will be
+deemed binding on the MIGA-i account holders, jointly and severally. The notice is deemed to have
+been given by the Bank to you when any one of the Joint Account holders is notified by the Bank.
+You will jointly and severally undertake to indemnify and hold the Bank harmless against losses,
+claims, demands, proceedings, costs, expenses and other liabilities incurred by the Bank in
+consequence of and/or arising from the Bank complying with any authorization issued by any of the
+Joint Account holders unless they arise from and are caused directly by the Bank’s gross negligence
+or wilful default;
+b) in the event of death, bankruptcy or insanity of either/any of you, any balance remaining in the
+credit of your Joint Account may be paid to the survivor(s), the non-bankrupt or the non-insane Joint
+Account holder as the case may be, subject Shariah principles and to any statutory compliance (if
+required) with the relevant legislation prevailing at such time, or any court order subject to the
+Bank being indemnified (to its satisfaction) by the survivor(s) against any claim that may be made
+against the Bank as a result of the Bank making such payment;
+c) in the event of a petition for bankruptcy or an order of bankruptcy is served against any one or all
+of you, the Bank may at its discretion and subject to compliance (if required) with the relevant
+legislation prevailing at such time, or any court order, at the request of either/any of you provided
+that you are the non-defaulting party, allow you to withdraw from the Joint Account in accordance
+with the Bank’s requirements;
+d) in the event that only one of you or any of you is authorised to operate the Joint Account(s), the
+authority conferred on the authorised signatories to operate the Joint Account shall be deemed to
+include without limitation the following:
+i. purchase, sale, redeem and/or transfer of MIGA-i under Joint Account;
+ii. continuation and closure of the Joint Account;
+iii. perform of any transaction related to MIGA-i under the Joint Account;
+iv. use of any electronic services from time to time provided by the Bank upon such terms and
+conditions and payment of all fees, costs or expenses in connection therewith from the Joint
+Account;
+Page | 6
+v. provision of any written indemnity required by the Bank in respect of operation of the Joint
+Account or any of the foregoing ; and
+vi. generally the authority to apply for, cancel, modify or otherwise do all things in relation to any
+of the foregoing matter;
+e) if there is any doubt of any instructions given by any of you in relation to the operation of the Joint
+Account, the Bank has the right to request for a written confirmation from all of you before carrying
+out such instructions;
+f) Joint Account holders will be jointly and severally liable for all transactions arising from such
+instructions in respect of the Joint Account. If the Bank receives contradictory instructions, the Bank
+may choose to act only on the mandate of all the Joint Account holders and will not be responsible
+or liable for any loss, claims, demands, proceedings, costs, expenses and damage caused by the
+Bank’s refusal to act without such mandate;
+g) Joint Account holders jointly and severally undertake to indemnify and hold the Bank harmless
+against losses, claims, demands, proceedings, costs, expenses and other liabilities incurred arising
+from any instruction issued by any of the Joint Account holders.
+6. DECLARATION
+6.1 You declare and undertake to the Bank that:
+(a) you are not an undischarged bankrupt or is wound-up and that no Insolvency Matter have been
+instituted against you under the laws of Malaysia or any other jurisdiction;
+(b) the information provided by you to the Bank is true and correct and you authorise the Bank to
+verify the same with any party and using any source as the Bank deems appropriate; and
+(c) you consent to the disclosure of information by the Bank under Clause 27 (Disclosure of
+Customer Information and Personal Data).
+7. PURCHASE OF GOLD
+7.1 The Bank may from time to time sell to you Gold pursuant to your purchase(s) in accordance with
+these Terms and Conditions. Each purchase must be in such form as prescribed by the Bank. The Bank
+will only be accept your purchase of Gold at the Maybank branches if it is transacted on the Business Day
+and via Maybank2u if it is transacted during the Transaction Hours.
+7.2 You must present the duly completed and executed form or document(s) as prescribed by the Bank
+for the purchase of Gold.
+7.3 Upon successful of your purchase, the Bank will record in the MIGA-i the following informations:
+a) the ownership serial number and Physical Cast Gold Bar serial number;
+b) the quantity of Gold purchased in grams;
+c) the price of Gold purchased in RM equivalent;
+d) the price of Gold per gram in RM and
+e) the balance of Gold (in grams) at the time of your purchase instruction.
+7.4 Should your purchase is not successful and/or incomplete, the Bank has the right to earmark,
+withhold or debit/credit the purchase amount from your MIGA-i account or Designated CASA in such
+manner that we determine at our reasonable discretion.
+7.5 You acknowledge and agree that you will only be permitted to perform the purchase within the
+Purchase Transaction Limit during the Transaction Hours and/or Business Day. The Bank will be entitled
+to cancel, rescind, reverse or annul any of your purchase(s) made which exceed the Purchase Transaction
+Limit.
+7.6 The Bank will have the right to vary the Purchase Transaction Limit from time to time and will
+provide you a twenty one (21) calendar days prior notice.
+Page | 7
+7.7 You acknowledge and agree to appoint the Bank as an Agent to assign and re-assign the Physical
+Cast Gold Bar serial number for the benefits of you.
+7.8 You acknowledge and agree that your success to purchase gold is subject to the Bank daily Gold
+sale limit.
+8. MINIMUM INITIAL PURCHASE AND SUBSEQUENT PURCHASE
+8.1 You acknowledge that the Initial Purchase amount will be determined by the Bank from time totime
+upon giving twenty one (21) calendar days prior notice.
+8.2 You agree that after the Initial Purchase, any of your subsequent purchase (as tabulated below)
+once approved by the Bank will be irrevocable.
+Types of
+Customer
+Initial Purchase Subsequent Purchase (Multiples)
+Individual :
+Sole, Joint
+and In Trust
+Account
+Minimum of RM 10 or its equivalent in
+gram based on the prevailing Bank
+selling price.
+Minimum of RM 10 or its equivalent in
+gram based on the prevailing Bank
+selling price.
+Non-
+Individual :
+Sole
+Proprietor
+Account
+Minimum of RM 50 or its equivalent in
+gram based on the prevailing Bank
+selling price.
+Minimum of RM 10 or its equivalent in
+gram based on the prevailing bank selling
+price.
+9. PURCHASE PRICE
+9.1 The price per gram for each purchase by you will be the selling price in RM per gram as quoted or
+indicated by the Bank based on prevailing Gold price to you at the time of the placement of the purchase;
+whether the purchase was made via Maybank2u or at Maybank’s branches. The selling price quoted or
+indicated will be determined by the Bank at the Bank’s discretion by taking into account all factors it
+deems relevant.
+9.2 You acknowledge that the indicative daily buying price (selling price from the Bank’s perspective) of
+Gold shall be displayed during the Transaction Hours at the www.maybank2u.com.my.
+10. SAFEKEEPING OF THE PHYSICAL GOLD
+10.1 You may appoint the Bank to act as your Agent to identify, arrange and pay with a third party,
+Security Vault Service Provider to safe keep your Gold purchased from the Bank.
+10.2 You will not hold the Bank liable for any loss, cost, charge, liability and expense (whether future or
+contingent) due to the negligence by the Security Vault Service Provider.
+10.3 The Bank is merely acting as an Agent for you to facilitate the safekeeping of the Physical Cast Gold
+Bar and/or Physical Minted Gold Bar through the service provided by the Security Vault Service Provider.
+Hence, the Bank’s accountability towards you will only be limited to the negligent act or omission by the
+Bank in relation to the Bank’s Agency role here.
+10.4 For the Bank appointment as your Agent, the Bank will impose an Agent fee up to 0.5% per annum
+(p.a) based on the average value of your gold balance in the MIGA-i. Such Agent fee will be debited from
+your Designated CASA on a monthly basis.
+10.5 You must always ensure that there is a sufficient amount in the Designated CASA for the Bank to
+debit the Agent fee every month or at any time the Bank deems fit.
+Page | 8
+10.6 In the event that your Agent fee is due for 3 consecutive months, the Bank will issue a final reminder
+via SMS to your registered mobile number. You are required to deposit the amount due in the Designated
+CASA within 7 days from the final reminder sent date. If the Bank fails to debit the amount due within 7
+days from Designated CASA after the final reminder, the Bank has a right to perform the following
+exercise to recover the amount due:
+a) you acknowledge and agree to appoint the Bank as an Agent to sell the available Gold balance in your
+MIGA-i (Bank buy the available Gold balance in MIGA-i based on the Bank prevailing buy price). For
+the remaining of the proceed sale, the Bank will credit into your Designated CASA. If you do not have
+and/or have closed the Designated CASA with the Bank, you are required to open another Designated
+CASA;
+b) to exercise the Bank’s right to set-off the amount due from any available amount in any Banking
+Account registered under your name with the Bank.
+10.7 The Bank will send a notification via SMS to your registered mobile number once the Bank has
+successfully recovered the amount due from either of the above exercises.
+11. GOLD TRANSFER
+11.1 You acknowledge and agree that the Bank allows you to transfer the available Gold balance in grams
+from your MIGA-i to another MIGA-i which is registered under your name for joint account and/or third
+party name. You further acknowledge and agree any transfer of gold made by you pursuant to this clause
+will be done in a manner not contrary to the Shariah principles.
+11.2 The transfer of Gold within the MIGA-i account is subjected to the maximum Gold value up to
+RM50,000 per day based on the prevailing Bank buy price.
+11.3 Upon the Bank’s acceptance of your instruction for the Gold transfer, the Bank will update your
+MIGA-i accordingly.
+12. GOLD REDEMPTION
+12.1 You acknowledge and agree that:
+a) upon the Bank’s acceptance of your instruction for the Gold Redemption, the Bank will update
+your MIGA-i accordingly;
+b) you may sell the redeemed Physical Minted Gold Bar and/or Physical Cast Gold Bar to the Bankbased
+on Bank buying price at the prevailing market price;
+c) the Bank provides an option for you to redeem the Physical Minted Gold Bar and/or Physical Cast
+Gold Bar at the following channels:
+No Redemption
+Channels
+Remarks Total Grams Redemption Per
+Application / Delivery
+Applicable Gold
+Denomination
+Min Max
+1 Selected
+Maybank
+Branches
+Self-collection based
+on on the available
+Gold stock
+1 gram 300 grams 1 gram
+5 grams
+10 grams
+50 grams
+100 grams
+Self-collection based
+on Appointment
+Services
+1,000 grams Subject to
+your
+available
+Gold balance
+in their
+MIGA-i
+1,000 grams
+Page | 9
+2 Courier Services The courier services 1 gram 100 grams 1 gram
+can deliver up to 100 5 grams
+grams per delivery 10 grams
+(parcel) 50 grams
+100 grams
+3 Special Delivery
+Services
+The special delivery
+services can deliver
+up to 3,000 grams
+per delivery.
+500 grams
+(Peninsular
+Malaysia)
+1,000 grams
+(East Malaysia)
+3,000 grams 1 gram
+5 grams
+10 grams
+50 grams
+100 grams
+1,000 grams
+d) for the Gold Redemption, the Gold Vendor will impose a charges on you as per clause 20.4.
+e) for the self-collection at selected Maybank branches, you do not have to pay any charges other than
+the Gold Redemption charges. For the Courier Services and/or Special Delivery Services, you have
+to pay the Gold Courier and/or Special Delivery charges other than the Gold Redemption charges.
+f) for the Courier Services and/or Special Delivery Services, the Gold Vendor will impose a charges on
+you as per clause 20.5.
+g) for the Courier Services and/or Special Delivery Services, you agree that the Gold Vendor will to do
+fulfillment for the delivery process. Hence, You hereby understand and consent to the disclosure of
+all relevant information e.g. name of the beneficiaries, mailing address and contact number by the
+Bank to the Gold Vendor;
+h) to facilitate the Courier Services and/or Special Delivery Services, you are required to provide two
+(2) names of the beneficiaries, two (2) contact number and one (1) mailing address to the Bank.
+12.2 For the Courier Services:
+a) the Gold Vendor will appoint a registered courier company to deliver the Physical Minted Gold Bar
+to the beneficiaries that has been provided by you between 3 to 7 Business Day. If the registered
+courier company is unable to deliver the Physical Minted Gold Bar to the beneficiaries on the 1st
+attempt, the registered courier company will try to deliver the Physical Minted Gold Bar for 2nd
+(final) attempt. If the 2nd (final) attempt fails, the registered courier company will keep the Physical
+Minted Gold Bar and will inform the beneficiaries to collect the Physical Minted Gold Bar within 7
+days from the 2nd (final) attempt of the delivery date. If there is no collection within the stipulated
+period, the registered courier company will return the Physical Minted Gold Bar to the Gold Vendor.
+b) for the uncollected Physical Minted Gold Bar that is returned to the Gold Vendor, the Gold Vendor
+will make necessary arrangements with the Bank and/or you to request for new Courier Services to
+the same or different beneficiaries;
+c) to facilitate the above arrangement as per clause 12.2(b), you and/or the beneficiaries is/are
+required to make another payment for the Courier Services charges at any Maybank branches for the
+new delivery;
+d) the Bank has the right to impose new charges as per clause 20.5 for any new request of Courier
+Services
+12.3 For the Special Delivery Services:
+a) the Gold Vendor will deliver the Physical Minted Gold Bar and/or Physical Cast Gold Bar to the
+beneficiaries that has been provided by you between 3 to 7 Business Day. In the event that the Gold
+Vendor is unable to deliver the Physical Minted Gold Bar and/or Physical Cast Gold Bar to the
+beneficiaries , the Gold Vendor will keep the Physical Minted Gold Bar and/or Physical Cast Gold Bar
+and will inform the beneficiaries to collect the Physical Minted Gold Bar and/or Physical Cast Gold
+Bar within 7 days from the delivery date;
+b) for the uncollected Physical Minted Gold Bar and/or Physical Cast Gold Bar that is kept at the Gold
+Vendor, the Gold Vendor will make necessary arrangements with the Bank and/or you as per below:
+i. the beneficiaries to collect the Physical Minted Gold Bar and/or Physical Cast Gold Bar from the
+Gold Vendor’s office;
+ii. to request for new Special Delivery Services to the same or different beneficiaries;
+c) to facilitate the above arrangement as per clause 12.3(b)(ii), you and/or the beneficiaries are
+required to make another payment for the Special Delivery Services charges at any Maybank
+Page | 10
+branches for the new delivery;
+d) the Bank has the right to impose new charges as per clause 20.5 for any new request of Special
+Delivery Services
+12.4 For the Appointment Services:
+a) you agree on the appointment date that will be agreed by the Bank and you agree for the
+Bank to debit the redemption charges as per clause 20.4 from your CASA.
+b) if your application date on or before 5th every month, you agree that the Appointment
+Services date will be the same month between 15th until end of the month.
+c) if your application date after 5th every month, you agree that the Appointment Services date
+will be at the next following month between 15th until end of the month.
+d) the Gold Vendor will deliver the Physical Cast Gold Bar to you through the AppointmentServices
+at selected Maybank branches.
+e) In the event that you are unable to come on the Appointment Services date, you shall inform
+the Bank in advance 2 Business Day before the appointment date and the Bank will make
+necessary arrangement with the Gold Vendor to set on the new Appointment Services date and
+vice versa;
+13. SALE OF GOLD
+13.1 You acknowledge and agree to sell the Gold in the MIGA-i at the Maybank’s branches on a Business
+Day or via Maybank2u during Transaction Hours by completing the form or document(s) as prescribed by
+the Bank subject to the Bank’s requirements and the prevailing Gold price.
+13.2 You must present the duly completed and executed form or document(s) prescribed by the Bank for
+the sale of the Gold.
+13.3 Upon successful of your sale, the Bank will record in the MIGA-i based on the following information:
+a) the quantity of Gold sold in grams;
+b) the price of Gold sold in RM equivalent;
+c) the price of Gold sold per gram in RM and
+d) the balance of Gold (in grams) if any in the MIGA-i.
+13.4 Should your sale is not successful and/or incomplete, the Bank has the right to earmark, withhold
+or debit/credit the purchase amount from your MIGA-i account or Designated CASA in such manner that
+we determine at our reasonable discretion.
+13.5 You acknowledge and agree that you will only be permitted to perform the sale within the Sale
+Transaction Limit. The Bank will be entitled to cancel, rescind, reverse or annul any of your sale order(s)
+and/or sale transactions made which exceed the Sale Transaction Limit.
+13.6 The Bank will have the right to vary the Sale Transaction Limit from time to time by giving twenty
+one (21) calendar days prior notice.
+13.7 You must ensure that any sale instruction will be limited to the actual quantity of Gold in the MIGA-
+i. In the event that there is insufficient Gold in the MIGA-i, the Bank may refuse to effect your sale
+instruction.
+13.8 You acknowledge and agree to appoint the Bank as an Agent to assign and re-assign the Physical
+Cast Gold Bar serial number for the benefits of you.
+14. SALE PRICE
+14.1 Each sale of the Gold will be at the buying price in Ringgit Malaysia (RM) per gram as quoted or
+indicated by the Bank based on the prevailing Gold price to you at the time of such transaction, whether
+the sale was made via Maybank2u or at the Maybank’s branches. The buying price quoted and indicated
+Page | 11
+will be determined by the Bank at its discretion by taking into account all factors it deems relevant.
+14.2 You hereby acknowledge that the indicative daily selling price (buying price from the Bank’s
+perspective) of Gold will be displayed during the Transaction Hours at the www.maybank2u.com.my.
+15. PROCEEDS OF SALE
+15.1 The Bank will pay the proceeds of any sale of Gold to you in RM on the same Business Day as the
+completion of the sale by way of direct credit into your CASA of your choice after the deduction of any
+fees (if any).
+15.2 You may collect the proceeds of sale of your Gold from the MIGA-i at any of the Maybank branches
+and Maybank2u during Transaction Hours prescribed by the Bank.
+16. SELL BACK OF THE PHYSICAL GOLD BAR
+16.1 You may perform a Sell Back of the Physical Gold Bar during the Business Day at selected Maybank
+branches based on buying price in Ringgit Malaysia (RM) per gram as quoted or indicated by the Bank
+based on the prevailing Gold price to you at the time of such transaction.
+16.2 For the Sell Back of Physical Minted Gold Bar to the Bank, you allow the Bank to perform a screening
+checklist on the Physical Minted Gold Bar. The Bank reserves the right to decline the Sell Back of the
+Physical Minted Gold Bar if the following screening checklist are not met:
+a) the Bank does not have a record of the serial number of Physical Minted Gold Bar;
+b) the serial number on the safety packaging does not match with serial number engraved on the
+Physical Minted Gold Bar except for denomination of 1 gram
+c) the Physical Minted Gold Bar is not securely intact in the safety packaging
+16.3 For the Sell Back of Physical Cast Gold Bar to the Bank, you are required to make an Appointment
+Services with the Bank and the Bank will make the necessary arrangement with the Gold Vendor to
+determine authentication of the Physical Cast Gold Bar. The Appointment Services arrangement as per
+below:
+a) if your application date on or before 5th every month, you agree that the Appointment Services
+date will be the same month between 15th until end of the month.
+b) if your application date after 5th every month, you agree that the Appointment Services date will be
+at the next following month between 15th until end of the month.
+16.4 The Sell Back of Physical Cast Gold Bar is only acceptable for the MIGA-i account holder only (1st
+party)
+16.5 The Gold Vendor will perform the screening checklist before the Bank can buy back the Physical
+Cast Gold Bar from you.
+16.6 The proceeds of any sale of Gold shall be paid to you in RM on the same Business Day as the
+completion of the sale by way of direct credit into your CASA of your choice.
+16.7 The proceeds of sale of Physical Minted Gold Bar and/or Physical Cast Gold Bar cannot be credited
+into MIGA-i in grams.
+16.8 Sell Back of the Physical Minted Gold Bar and Physical Cast Gold Bar to the Bank is only accepted
+at selected Maybank branches only.
+17. FOR FUTURE PURCHASE AND/OR SALE OF GOLD
+17.1 You undertake to ensure that sufficient funds are kept in your CASA of your choice to meet your
+Page | 12
+instruction to purchase Gold when the gold price specified by you match with the Bank prevailing sell
+price under the Future Order transaction.
+17.2 You undertake to ensure that sufficient Gold balance (available gold in grams) is available in your
+MIGA-i to sell Gold when the gold price specified by you match with the Bank prevailing buy price under
+the Future Order transaction.
+17.3 In the event of insufficient funds and/or Gold balance or where no funds and/or Gold balance are
+maintained in your CASA and/or MIGA-i, the Bank will be entitled not to effect the Future Order in
+relation to your instruction for purchase and/or sale of Gold.
+17.4 In the event that the Future Order is effected by the Bank, you agree that:
+a) to appoint the Bank as your Agent to execute the purchase and/or sale on your behalf;
+b) the Bank will be deemed or regarded as having your full authorization for the purchase and/or sale
+of the Gold;
+c) the Bank will debit the sufficient funds and/or Gold balance in your CASA of your choice and/or
+MIGA-i;
+17.5 In the event that the Future Order is affected by the Bank, but the purchase and/or sale is
+incomplete, the Bank has the right to earmark, withhold or debit/credit the purchase amount from your
+MIGA-i account in such manner that we determine at our reasonable discretion.
+17.6 You understand and agree that you shall only be permitted to place the Future Order via Maybank2u
+during the Transaction Hours and within the Purchase Transaction Limit and/or SaleTransaction Limit, as
+the case may be, and that such Future Order will only be processed and/or effected by the Bank.
+17.7 If the Bank is unable to fulfill such Future Order including in the event the Gold selling and/or
+buying price does not match during your Future Order period (from application date until expiry date)
+determined by you, you acknowledge and agree that such Future Order made by you would be
+cancelled and not carried out by the Bank.
+17.8 For every successful purchase or sale of Gold under or pursuant to your Future Order, you will be
+notified of the same by the Bank through your Maybank2u Inbox and/or transaction history page. You
+further authorize the Bank to send an SMS to your mobile number and/or push notification to the
+Maybank2u. You acknowledge that you will be responsible to ensure that such notices sent by the Bank
+are not disclosed to or given access to any other parties. The Bank will not be responsible or liable for
+any losses or damages arising from your disclosure to third parties.
+17.9 The Future Order will remain effective for the protection of the Bank in respect of all purchase
+and/or sale of Gold made notwithstanding your death or bankruptcy or the revocation of the Future
+Order by any other means until notice of your death or bankruptcy or of such revocation is received by
+the Bank.
+18. INDEMNITIES
+18.1 You agree to indemnify the Bank for any claim, loss, damages, penalty, charges, cost and expense
+(including costs on a solicitor and client basis) which the Bank may incur or suffer as a result of:-
+(a) your breach of these Terms and Conditions;
+(b) your fraudulent acts;
+(c) your disclosure of Security Details to any other person or in any manner including through
+emails or to a third party website;
+(d) your failure to take reasonable steps to keep the Security Details private and/or secure at all
+times;
+(e) your failure to report a breach, disclosure or compromise of the Security Details as soon as
+reasonably practicable upon being aware of the breach or loss respectively;
+(f) the Bank acting on your or your Authorised Signatory’s instructions and authorisations;
+(g) the Bank enforcing any of its rights against you;
+(h) the Bank complying with any laws, Sanctions Law, policies, guideline or rules of BNM, the
+Page | 13
+Authorities or the Bank; or
+(i) the Bank complying with any judgment, order, decree or directive (whether or not they have the
+force of law) issued by any court of law, any legally constituted tribunal body or Authorities,
+directed to or relating to you and/or your MIGA-i.
+18.2 If you use Maybank2u, we will not require you to indemnify us for the situations below (unless
+you are also at fault due to your gross negligence, fraud or willful misconduct):
+(a) a technical breakdown or proven deficiency in the systems and equipment that is under the full
+control of the Bank;
+(b) a proven weakness or vulnerability in the security features and controls adopted by the Bank;
+(c) transactions that occurred after you have notified the Bank that your Security Details have
+been compromised or breached;
+(d) transactions that occurred immediately prior to you notifying the Bank that your Security Details
+have been compromised or breached and the notification to the Bank was made forthwith;
+(e) transactions that occurred prior to you receiving your Security Details; or
+(f) Security Details that are forged, faulty, expired or cancelled.
+19. CLOSURE OF MIGA-i
+19.1 If you wish to close the MIGA-i, you may do so by selling all the Gold to the Bank at the buying price
+as shall be quoted by the Bank at the time of such sale and all proceeds of sale therefrom shall be paid
+to you in Malaysian Ringgit by crediting the CASA.
+19.2 You may also close MIGA-i by transferring all the Gold to another account of MIGA-i which is
+registered under your name or third party’s name.
+19.3 Your MIGA-i can only be closed upon request by you for the closure of MIGA-i in person at the
+Maybank branches or through Maybank2u. At the Maybank branches, valid passport or MyKad must be
+presented for closure of the MIGA-i. You shall comply with all the Bank’s prevailing requirements for the
+closure of the MIGA-i stated herein and/or which may be prescribed by the Bank from time to time by
+giving twenty one (21) calendar days notice prior the effective date.
+19.4 The Bank reserves the right to close the MIGA-i whenever the Bank deems reasonably fit, by giving
+twenty one (21) calendar days prior notice. In the event that there is any Gold balance in the MIGA-i,
+you irrevocably authorize the Bank to sell the said Gold in such manner and upon such terms and
+conditions as the Bank may deem fit. The proceeds of the sale will be credited into the CASA of your
+choice. The Bank will not be responsible for any loss, if any, in the sale of the Gold or for any loss or
+depreciation in value of the Gold for any reasons including but not limited to the fluctuation of Gold
+price and/or the fluctuation of the currency exchange rate. You expressly and irrevocably agree that the
+judgement and discretion of the Bank in respect of the timing, price and terms of sale of the Gold will
+be final, binding and conclusive and will not be questioned by you on any account.
+19.5 The Bank reserves the right to close the MIGA-i if there is no gold balance in MIGA-i forconsecutive
+period of 3 years without the necessity to assign any reasons and/or notice to you.
+20. BANK FEES AND CHARGES
+20.1 You agree and undertake to pay to the Bank all such service or transaction charges in respect of or
+in connection with the MIGA-i in accordance with the prevailing practice of the Bank. Such service or
+transaction charges will be debited from your CASA and/or any other account maintained by you with
+the Bank without prior notice. The Bank will notify in writing you of any changes to the charges applicable
+to the MIGA-i by at least twenty one (21) calendar days prior to the effective date of change.
+20.2 For this purpose, you will make good the payment of such charges by ensuring that there are
+sufficient funds in your CASA at all times for the Bank to debit.
+20.3 The Bank is authorized to debit your CASA for the service charge of RM5, which service charge in
+respect of or in connection with the MIGA-i performed at the Maybank branches through over the counter
+Page | 14
+for the following transactions:
+a) buy Gold
+b) sell Gold
+c) transfer Gold
+20.4 The Bank will not impose any fees and charges when you perform the above transactions at
+Maybank2u.
+20.5 The Bank is authorized to debit your CASA for the Gold Redemption charges or such other amount
+as the Bank may determine from time to time as per below:
+Gold Denomination Total Redemption Charges Per Piece (RM)
+1 gram RM25.00
+5 grams RM36.50
+10 grams RM63.00
+50 grams RM242.50
+100 grams RM340.00
+1,000 grams RM1,450.00
+20.6 The Gold Redemption charges is imposed by the Gold Vendor.
+20.7 The Bank is authorized to debit your CASA for the Courier Services charge and/or Special Delivery
+Services charge or such other amount as the Bank may determine from time to time as per below :
+Courier Services Charges
+Items Peninsular Malaysia East Malaysia
+(Sabah & Sarawak)
+Insurance Charges RM2 per gram RM2 per gram
+Handling, packaging
+and courier Charges RM16.75 per delivery RM22.75 per delivery
+Total Grams Per Deliver
+(Parcel)
+Minimum of 1 gram –
+Maximum of 100 grams
+Minimum of 1 gram –
+Maximum of 100 grams
+Special Delivery Services Charges
+Items Peninsular Malaysia East Malaysia
+(Sabah & Sarawak)
+Services Charges RM970 per delivery RM2,135 per delivery
+Total Grams Per Delivery Minimum of 500 grams –
+Maximum of 3,000 grams
+Minimum of 1,000 grams –
+Maximum of 3,000 grams
+20.8 The Bank will not impose any fees and charges other than the Gold Redemption charges if you
+collect the Physical Minted Gold and/or Physical Cast Gold Bar at selected Maybank Branches.
+20.9 The Courier Services charge and /or Special Delivery Services charges is imposed by the Gold
+Vendor.
+20.10 For the Bank appointment as your Agent, the Bank will impose an Agent fee up to 0.5% per
+annum (p.a) based on the average value of your gold balance in the MIGA-i. The Bank is authorized to
+debit your Designated CASA for the Agent fee on a monthly basis or at any time as the Bank may determine
+from time to time.
+20.11 If the Bank fails to debit the Agent fee amount due for a consecutive 3 months from your
+Designated CASA, you authorize the Bank to sell the available Gold balance in your MIGA-i to settle the
+amount due and to refund the balance amount in your Designated CASA, if available.
+21. RIGHT TO COMBINE ACCOUNTS AND SET-OFF
+Page | 15
+The Bank may combine, consolidate or merge all or any of your accounts with, and liabilities owing to
+the Bank, upon giving [seven (7) calendar days’] prior notice to you to set off or transfer any sum
+outstanding to the credit of any such accounts in or towards the satisfaction of any of your
+liabilities owed to the Bank (whether under the Facility or otherwise) and/or to other companies
+related to the Bank.
+At the same time, the Bank may earmark the available funds in your accounts to pay the outstanding
+balance of the facility(s) upon issuing the notice to the Bank.
+22. FREEZING OF MIGA-i
+22.1 The Bank may at the Bank’s discretion, which the Bank will exercise reasonably, freeze or suspend
+your MIGA-i for any reasons, unless it is prohibited by law. Those reasons include:
+a) you suffer an Insolvency Matter;
+b) the existence of an Authorities’ Directives;
+c) you conduct, or the Bank has reason to believe that you or a third party is misusing, conducting
+illegal or fraudulent activities through MIGA-i (this includes illegal deposit taking and scams);
+d) you misrepresented your identity or provided false, incorrect or misleading information or
+documents relating to MIGA-i;
+e) a Police report is lodged against you or on MIGA-i by any person including the Bank;
+f) an investigation is being conducted by the Authorities or by the Bank against you or MIGA-i;
+g) you fail to inform the Bank of any change in your personal particulars such as your residential
+address, mailing address and contact numbers;
+h) the death of the Account-holder or the Authorised Signatory;
+i) any payment is due and payable by you to the Bank whether as a customer, security party or
+guarantor and is unpaid;
+j) you are mentally incapacitated;
+k) the Bank receive a court order or other legal documents prohibiting the MIGA-i from beingoperated;
+l) you abuse our Electronic Banking Services or our IT system; and
+m) you breach these Terms and Conditions.
+22.2 The Bank may consider uplifting of the freezing subject to the following:
+a) For the Insolvency Matter:
+i. for bankruptcy orders, you must provide the Bank with satisfactory evidence that the insolvency
+has been dismissed or permanently stayed or the Official Assignee has consented for MIGA-i to
+be operated by the Bank;
+ii. the Bank is ordered by a court of law to uplift the Freezing.
+b) In respect of Court Judgements, Court Orders or similar decrees, the Bank is ordered by the court
+of law to uplift of the Freezing;
+c) In respect of any Authorities’ Directives, the Bank is authorised in writing by the Authorities to
+uplift the Freezing;
+d) In respect of investigations,
+i. the Bank is satisfied that no further investigation is required; or
+ii. the Bank is given a written statement from the Authorities satisfactory to the Bank informing
+that the investigation has been discontinued;
+e) In respect of death, if the Bank is served with a Grant of Probate, Letter of Administration or an
+equivalent legal document by the Accountholder’s personal representative;
+f) In respect of payment due and payable to the Bank, upon the Bank exercising the Bank’s right to
+set-off.
+g) In respect of mental capacity,
+i. the Bank is satisfied that the state of your mental capacity does not affect your ability to
+operate MIGA-i; or
+ii. the Bank is ordered by a court of law to allow your personal representative to operate MIGA-i.
+22.3 The Bank will not be liable for any claim, loss, damages, penalty, charges, cost and expense
+suffered or incurred by you as a result the Freezing.
+Page | 16
+23. NO ASSIGNMENT
+23.1 All rights, title, interests and benefits under the CASA, the MIGA-i and the Gold comprised therein
+are non transferable and non assignable and cannot be made subject to any pledge, charge, mortgage or
+be made the subject of any lien and/or any other form of encumbrance or security save where the same
+is created in favour of the Bank.
+24. NOTICES
+24.1 Any notice or communication may be in writing. The Bank may deliver such notice of
+communication personally, by post or facsimile to you at your last known address in our records, by
+electronic transmission (including SWIFT, Short Messaging Service or e-mail), on or through the Bank’s
+website or by such other means as the Bank may designate from time to time. Any notice or
+communication to you will be deemed to be received (unless there is contrary evidence that such notice
+or communication was in fact not received):-
+a) if personally delivered, at the time of delivery; or
+b) if posted, on the (third (3rd) business day after posting (within Malaysia) and on the seventh (7th)
+business day after posting (outside Malaysia)); or
+c) in the case of a facsimile transmission, on the business day immediately after transmission
+provided that the Bank has received an answer back confirmation; or
+d) on the case of an electronic transmission, at the time sent to you, unless the Bank receive an
+automated message that the electronic transmission has not been delivered.
+No change in your address stated in this Letter of Offer will be effective or binding on the Bank, unless
+you have given to the Bank actual notice of the change of address, in writing.
+25. CHANGE OF TERMS AND CONDITIONS
+25.1 The Bank reserves the right to add, modify or delete any of these Terms and Conditions as the Bank
+may deem fit and does not contravene the Shariah Principles at any time by giving twenty-one
+(21) calendar days prior written notice before implementing the changes. The changes will take effect
+on the date stated in the notice. In situations where changes are made pursuant to laws or regulations,
+notice of a shorter period or immediate notice will be given to you.
+25.2 A notice will be given to you in accordance with Clause 24. If you do not accept the changes, you
+should immediately cease using and close your MIGA-i.
+26. GOVERNING LAW AND JURISDICTION
+26.1 The Laws of Malaysia will govern and be applicable to these Terms and Conditions, the MIGA-i and
+all transactions in connection therewith. In relation to any legal action or proceedings arising out of or
+in connection with these Terms and Conditions ("Proceedings"), each party irrevocably submits to the
+exclusive jurisdiction of the courts of Malaysia and waives any objection to Proceedings in any such court
+on the grounds of venue or on the grounds that the Proceedings have been brought in an inconvenient
+forum.
+27. DISCLOSURE OF CUSTOMER INFORMATION AND PERSONAL DATA
+27.1 Save for marketing and/or cross-selling purposes, you consent and authorize the Bank to collect,
+process, disclose, transfer, maintain, store and retain your personal data that you provide to or that the
+Bank has obtained about you and your MIGA-i. You consent and agree for the Bank to disclose your
+financial condition, details of MIGA-i and relationship with the Bank:
+(a) to comply with an order or request made by an enforcement agency in Malaysia under any
+Page | 17
+written law for the purposes of investigation or prosecution of an offence;
+Page | 18
+(b) required by the Inland Revenue Board of Malaysia under section 81 of the Income Tax Act 1967
+for purposes of facilitating exchange of information pursuant to taxation arrangements or
+agreements having effect under section 132 or 132A of the Income Tax Act 1967;
+(c) in relation to the performance of any supervisory duties by the Authorities;
+(d) in relation to the conduct of centralised functions, which include audit, risk, management,
+finance or information technology or any other centralised function within the Bank’s group of
+companies;
+(e) in relation to a due diligence of a corporate exercise approved by the board of directors of the
+Bank in connection with merger and acquisition, capital raising exercise or sale of assets or whole
+or part of business;
+(f) if necessary to carry out and complete a transaction or any other instruction or Mandate given
+by you.
+27.2 Further, you also consent and agree for the Bank to disclose your financial condition, details of
+MIGA-i and relationship with the Bank to:
+(a) Authorities in Malaysia and elsewhere for the purpose of complying with legal, regulatory,
+compliance and risk management requirements including for compliance with US’ Foreign
+Account Tax Compliance Act (“FATCA”) and Organisation For Economic Cooperation and
+Development’s Common Reporting Standards (“CRS”);
+(b) BNM’s Credit Bureau, Cagamas Berhad, Credit Guarantee Corporation Malaysia Berhad and credit
+bureaus established under the Credit Reporting Agencies Act 2010;
+(b) entities under the Maybank Group;
+(c) parties providing services (including outsourcing vendors, lawyers, nominees, custodians,
+centralised securities depository, registrar, debt collection agents and
+intermediary/correspondent banks) to the Bank;
+(d) the Bank’s agents, consultants and professional advisers;
+(e) the Bank’s or any of the Maybank Group’s assignees; and
+(f) any other person or entity to whom disclosure is permitted or required by any law, regulation
+or governmental directive.
+27.3 The Maybank Group Privacy policy, as amended from time to time, is incorporated by reference and
+forms part of these Terms and Conditions. It will apply to all of your personal data that you provide to
+the Bank or to entities within the Maybank Group. You may access a copy of the privacy policy at
+www.maybank.com.my or obtain a copy from any of our Maybank’s branches.
+27.4 Your consent under this paragraph will survive your demise, insolvency, incapacity, the termination
+of these Terms and Conditions and closure of your MIGA-i.
+28. FORCE MAJEURE
+28.1 The Bank will not be liable to you or any third party for any inconvenience, injury, expense, liability,
+damages, loss of profits, earnings or goodwill if:
+(a) the Bank is unable to perform any of its obligations or provide any services due to Force
+Majeure; or
+(b) if monies credited or debited from MIGA-i becomes inaccessible or diminish in value due to
+Force Majeure.
+28.2 Where any currency in which the Bank must make payment becomes unavailable due to reasons
+including restrictions on convertibility or transferability or Force Majeure, the Bank may make payment
+in such other currency at the exchange rate determined by the Bank.
+29. ANTI-CORRUPTION LAWS
+29.1 You must at all times operate your CASA and/or MIGA-I in compliance with Anti-Corruption Laws.
+Page | 19
+30. ANTI-MONEY LAUNDERING
+30.1 You must at all times ensure that no funds moving to and from your CASA and/or MIGA-i are proceeds
+of, or will be used for any unlawful activity in contravention of any Anti-Money Laundering Laws.
+30.2 You undertake that you will not:-
+(a) use your CASA and/or MIGA-i, directly or indirectly, for transactions involving any unlawful
+activity;
+(b) conceal or disguise the true nature of any unlawful activity; or
+(c) utilise any monies from your CASA and/or MIGA-i for any money laundering or other unlawful
+purpose.
+31. SANCTIONS
+31.1 You confirm and declare that you are not an individual that is (a) currently subject to any Sanction
+Laws or (b) located or resident in a country or territory that is the subject of Sanction Laws.
+31.2 You will not directly or indirectly, make available in any way any proceeds from your CASA and/or
+MIGA-i to any individual or entity subjected to Sanction Laws or for any sanctioned purpose for the benefit
+of any sanctioned countries/territory.
+31.3 You acknowledge that the Bank may not be able to process affected transactions that involve or are
+suspected to involve a breach of Sanction Laws or any requirements imposed by any authority having
+jurisdiction over the Bank or the affected transactions. The Bank will not be responsible in any way for
+any failure or delay in processing any such transaction.
+Page | 20
+TERMA DAN SYARAT YANG MENTADBIR PRODUCK MAYBANK ISLAMIC GOLD ACCOUNT-i
+Ini terma dan syarat (“Terma dan Syarat") sebagaimana yang akan dipinda dari semasa ke semasa,
+menyatakan terma dan syarat yang mengawal Maybank Islamic Gold Account-i (MIGA-i) anda dengan
+Maybank Islamic Berhad (No. Syarikat 200701029411). Dengan membuka dan menggunakan MIGA-i, anda
+menerima dan bersetuju untuk mematuhi Terma dan Syarat ini dan apa-apa perubahan selanjutnya
+terhadapnya. Sila baca dokumen ini dengan teliti.
+1. DEFINISI
+"Ejen" merujuk kepada pelantikan Bank sebagai ejen untuk mengurus dan mengendalikan MIGA- ioleh
+anda.
+"Pindaan" merujuk kepada apa-apa variasi, penambahan, penghapusan, pengubahsuaian ataupindaan
+yang akan mengikat anda.
+“Undang-Undang Anti-Rasuah” bermaksud semua undang-undang, peraturan dan undang-undang yang
+berlaku yang berkaitan dengan rasuah dan rasuah termasuk Malaysian Anti-Corruption Commission Act
+2009, US Foreign Corrupt Practices Act of 1977, UK Bribery Act 2010.
+“Akta Pencegahan Pengubahan Wang Haram” bermaksud semua undang-undang dan peraturan yang
+berlaku yang berkaitan dengan pencucian wang, pembiayaan anti-terorisme dan hasil aktiviti yang
+menyalahi undang-undang termasuk Anti-Money Laundering, Anti-Terrorism Financing dan Proceeds of
+Unlawful Activities 2001.
+"Pihak berkuasa" merangkumi tetapi tidak terhad kepada Bank Negara Malaysia, Polis atau pihak berkuasa
+lain yang berkanun atau peraturan sama ada tempatan atau antarabangsa.
+“Arahan Pihak Berkuasa” bermaksud arahan yang diberikan oleh Pihak Berkuasa untuk melakukanatau
+menahan Bank daripada melakukan sebarang transaksi di bawah MIGA-i tanpa mengira sama ada Pihak
+Berkuasa mempunyai kuasa yang sah atau sah untuk melakukannya.
+“Penandatangan Yang Diberi Kuasa” bermaksud orang yang diberikan oleh pasangan anda ataukebenaran
+oleh anda atau orang lain (untuk pemegang akaun bersama) untuk mengurus dan mengendalikan MIGA-i.
+"Bank" merujuk kepada Maybank Islamic Berhad (No. Syarikat 200701029411)
+"Bank Negara Malaysia" bermaksud Bank Pusat Malaysia.
+“Akaun Perbankan” bermaksud semua jenis Islamic Saving Account, Islamic Current Account, Islamic
+Master Foreign Currency Account (“MFCA-i”), seperti yang ditentukan di bawah ini yang
+akan merangkumi Trade MFCA-i dan Investment MFCA-i, Islamic Term Deposit Account, Islamic Special
+Deposit Facility Account (jika berkenaan) dan setiap dan tiap-tiap akaun Islamic lain yang ditawarkan
+oleh Bank yang mana diseleggarakan oleh anda dengan Bank.
+"Hari Perniagaan" merujuk pada jam kerja normal pada hari kalender ketika Bank akan dibuka untuk
+umum untuk menjalankan perniagaan perbankan sebagaimana yang ditentukan dalam Islamic Financial
+Services Act (FSA) 2013.
+"CASA" merujuk kepada Akaun Semasa dan / atau Akaun Simpanan penuh yang dibuka oleh anda dengan
+tanda bukti cap ibu jari di kaunter di mana-mana cawangan Maybank.
+“Perkhidmatan Penghantaran” merujuk kepada Penjual Emas melantik syarikat penghantaran yang
+berdaftar untuk menghantar Bar Emas Fizikal Khas kepada penerima yang telah disediakan oleh anda.
+"CASA Yang Ditetapkan” merujuk kepada CASA yang akan dihubungkan dengan MIGA-i untuk memudahkan
+transaksi mendebitkan yuran Ejen dan mengkreditkan jumlah lebihan yang diperoleh dari proses
+pemulihan yuran Ejen.
+Page | 21
+“Perkhidmatan Perbankan Elektronik” bermaksud perkhidmatan perbankan elektronik yang disediakan
+oleh Bank yang membolehkan anda berkomunikasi, memperoleh maklumat dari atau memberikan arahan
+dan kebenaran kepada Bank menggunakan alat elektronik seperti komputer, telefon, telefon pintar dan
+tablet melalui saluran seperti perbankan telefon , Maybank2u dan perekhidmatan layan diri.
+"Force Majeure" bermaksud peristiwa atau situasi di luar kawalan Bank yang berterusan selama tiga (3)
+bulan atau lebih termasuk:
+(a) gempa bumi, banjir, kebakaran, wabak, pandemi, dan bencana alam lain; dan / atau
+(b) keganasan, rusuhan, kekacauan awam atau gangguan, perang (sama ada diisytiharkan atau tidak)
+dan mogok.
+"Pesanan Masa Depan" merujuk kepada bakal pembelian dan / atau penjualan emas berdasarkan harga
+emas ditentukan oleh anda.
+"Emas" merujuk kepada ketulenan emas fizikal 999.9 dengan akreditasi oleh London Bullion Market
+Associations (LBMA).
+"Penjual Emas" merujuk kepada syarikat yang terlibat dalam perniagaan emas yang telah dilantik oleh
+Bank (mengikut budi bicaranya) untuk membekalkan emas.
+“Penebusan Emas” merujuk kepada penebusan hak milik anda dalam MIGA-i kepada Bar Emas Fizikal
+Khas dan / atau Bar Emas Fizikal dan ia tidak melibatkan sebarang transaksi beli dan / atau penjualan .
+“Pembelian Awal” merujuk pada pembelian awal yang dilakukan oleh Aada semasa pembukaan akaun
+MIGA-i.
+"Perkara Insolvensi" bermaksud tindakan muflis, dan / atau petisyen penggulungan atau kebankrapan
+yang telah ditujukan terhadap anda, dan / atau salah satu atau lebih dari anda, atau salah satu dari
+mereka yang menandatangani MIGA-i diadili muflis.
+"Akaun Bersama" merujuk kepada MIGA-i yang dibuka dalam beberapa nama yang terdiri daripada tidak
+lebih dari empat (4) orang secara keseluruhan.
+"MIGA-i" merujuk kepada Maybank Islamic Gold Account-i (MIGA-i) yang didaftarkan di bawah nama anda,
+untuk melakukan sebarang transaksi Emas.
+"Maybank2u" merujuk kepada perkhidmatan perbankan internet yang disediakan oleh Bank.
+"Kumpulan Maybank" bermaksud, secara kolektif, Bank, sekutunya, dan mana-mana syarikat berkaitan
+Bank serta syarikat bersekutu Bank atau syarikat induknya.
+"Minor" bermaksud individu yang berumur di bawah 18 tahun.
+"Kad Pengenalan" merujuk kepada Kad Pengenalan Pendaftaran Nasional Malaysia.
+"PDPA" merujuk pada Undang-Undang Perlindungan Data Peribadi 2010 dan peraturan dan undang- undang
+yang dikeluarkan berdasarkannya;
+“Bar Emas Fizikal” bermaksud ketulenan emas fizikal 999.9 dengan berat 1,000 gram per bar yang
+dihasilkan oleh kilang. Mereka dalam bentuk bar dan membawa reka bentuk sederhana dengan
+akreditasi oleh London Bullion Market Associations (LBMA).
+“Bar Emas Fizikal Khas” bermaksud jongkong emas halus yang mempunyai reka bentuk estetik yang rumit
+dengan berat dan ukuran yang berbeza, dan ditandai dengan perincian seperti nama pengeluar, berat,
+ketulenan 999.9, nombor siri dan diakreditasi oleh London Bullion Market Associations (LBMA).
+“Perkhidmatan Temujanji” merujuk kepada Penjual Emas untuk menyampaikan dan /atau mengambil
+Bar Emas Fizikal kepada anda melalui janji temu di cawangan Maybank terpilih.
+Page | 22
+"Had Transaksi Pembelian" merujuk kepada had pembelian maksimum 3,000 gram Emas setiap transaksi
+dan kumulatif 10,000 gram Emas setiap hari untuk MIGA-i.
+“RM” merujuk kepada Ringgit Malaysia
+"Had Transaksi Penjualan" merujuk kepada had penjualan maksimum 3,000 gram Emas setiap transaksi
+dan kumulatif 10,000 gram Emas setiap hari untuk MIGA-i.
+“Sanctions Law “bermaksud arahan atau perintah sekatan yang ditadbir atau dikuatkuasakan dari semasa
+ke semasa oleh Malaysia, Amerika Syarikat (khususnya sekatan yang dilaksanakan melalui US '.
+Department of Treasury’s Office of Foreign Assets Control (“OFAC”)), United Nations Security Council,
+European Union atau pihak berkuasa lain terhadap mana-mana individu atau entiti yang berada, teratur
+atau bermastautin di negara atau wilayah yang ditentukan;
+"Maklumat Keselamatan" merangkumi Kata Laluan Perbankan Elektronik, PIN dan maklumat sulit lain,
+kod keselamatan dan / atau peranti keselamatan yang digunakan berkaitan dengan Akaun Perbankan
+dan MIGA-i.
+“Penyedia Perkhidmatan Peti Keselamatan” merujuk kepada syarikat yang dilantik oleh Bank (mengikut
+budi bicaranya) untuk menjaga Bar Emas Fizikal dengan selamat.
+"Jual Balik Bar Emas Fizikal" merujuk kepada Bar Emas Fizikal Khas dan / atau Bar Emas Fizikal yang telah
+ditebus dari Bank dan akan dibeli semula oleh Bank berdasarkan kepada harga beli Bank pada harga
+pasaran yang berlaku.
+"SMS" bermaksud Sistem Pesanan Ringkas.
+“Perkhidmatan Penghantaran Khas” merujuk kepada Penjual Emas untuk menghantar Bar Emas Fizikal
+Khas dan / atau Bar Emas Fizikal kepada penerima yang telah disediakan oleh anda.
+"Terma dan Syarat" merujuk kepada terma dan syarat di sini, yang dapat dipinda dari semasa ke semasa
+oleh Bank sesuai dengan syarat di sini.
+"Pengesahan Telekomunikasi" merujuk kepada Bank yang diberi kuasa untuk mengendalikan dan
+bertindak atas pengesahan yang diterima oleh Bank dari anda atas setiap maklumat yang diminta melalui
+telefon.
+“Waktu Transaksi” merujuk pada tempoh antara 8:30 pagi dan 11:59 malam Isnin hingga Ahad,termasuk
+cuti umum nasional mengikut kalendar Wilayah Persekutuan.
+"Anda" merujuk kepada pemegang akaun yang disebutkan dalam MIGA-i, termasuk pengganti orang
+tersebut dalam gelaran dan penerima hak yang dibenarkan.
+2. TAFSIRAN
+Sebarang rujukan dalam Terma dan Syarat ini untuk:
+a) pihak merujuk kepada pemegang akaun yang memegang MIGA-i termasuk pengganti orang tersebut
+sebagai hak milik dan penerima hak yang dibenarkan;
+b) kata-kata tunggal akan merangkumi secara keseluruhan dan sebaliknya dan kata-kata yang berkaitan
+jantina akan merangkumi setiap jantina;
+c) tajuk sarikata dan pembahagian peruntukan kepada bahagian-bahagian dan klausa dalam Terma dan
+Syarat ini adalah untuk memudahkan rujukan sahaja dan akan tidak akan dipertimbangkan dalam
+tafsiran peruntukan substantif Terma dan Syarat ini;
+d) di mana suatu perkataan atau frasa diberi makna tertentu, bahagian-bahagian pertuturan dan
+bentuk tatabahasa lain dari kata atau frasa itu akan mempunyai makna yang sesuai;
+e) "orang" merangkumi mana-mana orang dan Organisasi;
+Page | 23
+f) apabila terdapat dua (2) atau lebih orang atau pihak yang disertakan atau termasuk dalam ungkapan
+"anda" atau "pemegang Akaun", Terma dan Syarat ini akan mengikat orang atau pihak tersebut secara
+bersama dan terpisah;
+g) perkataan yang berkaitan kepada individu dan Organisasi; dan
+h) apa-apa rujukan kepada setiap Undang-undang atau undang-undang adalah rujukan kepada Undang-
+undang atau undang-undang tersebut sebagaimana yang diubah, disatukan atau diberlakukan
+kembali dari semasa ke semasa.
+3. KONTRAK SYARIAH YANG DIGUNAKAN
+Anda mengakui bahawa berkenaan kontrak Syariah adalah seperti yang berikut:
+a) Musawamah: Kontrak jualan yang merujuk kepada transaksi di mana pembayaran dan penghantaran
+emas mestilah dilakukan dengan segera di antara bank dan anda.
+b) Waad: Kontrak akujanji di mana anda berjanji untuk membeli emas melalui pendebitan akaun semasa
+atau simpanan anda. Atas permintaan anda melalui pesanan pembelian, pihak Bank akan membeli
+emas tersebut. pihak Bank akan menjual emas tersebut kepada anda. Akaun semasa atau simpanan
+anda akan didebitkan sebanyak harga jualan bank. Selepas itu, akaun emas anda akan dikreditkan
+pada harga belian emas.
+c) Ujrah: Yuran yang dikenakan oleh pihak Bank untuk perkhidmatan seperti penebusan dengan emas
+fizikal, penghantaran emas fizikal melalui kurier dan penghantaran khas, beli, jual dan pindahan
+emas yang dilakukan melalui kaunter di cawangan, dan sebagai ejen untuk mencari pembekal
+perkhidmatan peti besi keselamatan untuk menyimpan emas anda dengan selamat.
+d) Wakalah: Anda melantik pihak Bank sebagai ejen untuk mencari dan mengatur dengan pihak ketiga,
+penyedia perkhidmatan bilik kebal keselamatan untuk menyimpan bar emas fizikal anda dengan
+selamat dan melantik Bank untuk melaksanakan transaksi pesanan masa hadapan.
+4. TUJUAN MIGA-i
+4.1 Anda dari semasa ke semasa boleh membeli dan / atau menjual Emas melalui MIGA- i sesuai dengan
+Terma dan Syarat ini.
+5. PEMBUKAAN AKAUN
+5 .1 Untuk membuka MIGA-i, anda akan melaksanakan dan memberikan tanda tangan spesimen anda
+kepada Bank dan apa-apa dokumen lain sebagaimana yang dikehendaki oleh Bank untuk pengoperasian
+MIGA-i. Setelah selesai penghantaran apa-apa dokumen tersebut kepada Bank, Bank akan memproses
+Pembelian Awal anda. Slip transaksi dan / atau e-penyata bulanan akan dikeluarkan kepada anda untuk
+merekodkan semua urus niaga melalui akaun anda sebagai rujukan.
+5.2 Anda menyatakan dan menjamin bahawa:
+a) anda berumur 18 tahun dan ke atas dan saya / berfikiran waras (pelanggan individu) atau Syarikat
+tunggal (syarikat);
+b) anda bukan bankrap yang belum dibebaskan atau bukan syarikat yang bangkrap atau tidak ada
+petisyen penundaan yang belum selesai yang ditujukan terhadap anda;
+c) anda mempunyai hak penuh, kuasa dan kebenaran untuk membuat pembelian,
+penjualan, penebusan dan pemindahan Emas dan untuk memasuki dan melaksanakan hak anda
+dan melaksanakan tanggungjawab anda di bawah Terma dan Syarat ini ;
+d) kewajipan yang dibuat berdasarkan Terma dan Syarat ini sah, mengikat secara sah dan boleh
+dilaksanakan terhadap anda;
+e) semua tindakan, syarat dan perkara-perkara yang dikehendaki diambil, dipenuhi dan dilakukan
+(termasuk pemerolehan apa-apa persetujuan yang diperlukan) untuk membolehkan anda untuk
+dengan sah membuat, menjalankan hak anda dan menunaikan dan mematuhi obligasi anda di bawah
+Terma dan Syarat ini, untuk memastikan bahawa kewajiban tersebut mengikat dan dilakukan secara
+sah untuk menjadikan Terma dan Syarat ini diterima sebagai bukti telah diambil, dipenuhi dan
+dilakukan;
+f) kemasukan anda ke dalam, pelaksanaan hak - hak anda dan / atau pelaksanaan pematuhan kami
+Page | 24
+terhadap kewajiban anda berdasarkan Terma dan Syarat ini tidak akan melanggar:
+i. mana-mana undang-undang yang anda adalah tertakluk kepada; atau
+ii. mana-mana dokumen yang tertakluk kepada; atau
+iii. mana-mana Terma dan Syarat mana anda adalah pihak kepada;
+g) tidak ada proses litigasi, timbang tara atau pentadbiran yang sedang berjalan, belum
+selesai, diancam atau dijangkakan yang dapat:
+i.menahan kemasukan anda ke dalam, pelaksanaan atau pematuhan atau penguatkuasaanatau
+tanggungjawab anda di bawah Terma dan Syarat ini; atau
+ii. mempunyai kesan buruk terhadap prestasi anda atau pematuhan atau
+penguatkuasaan tanggungjawab anda di bawah Terma dan Syarat ini.
+h) ibu bapa atau penjaga sah yang dilantaik oleh mahkamah untuk penjaga Minor dan anda akanbertindak
+sebagai pemegang amanah kepada Minor berkenaan dengan MIGA-i.
+i) anda bukan salah satu pihak yang disekat oleh Kerajaan Malaysia, UNSC atau Pihak Berkuasa Negara
+Hos Masing-masing seperti berikut; Afghanistan, Hong Kong, Balkan, Belarus, Cuba, Burma, Republik
+Afrika Tengah, Iran, Korea Utara, Syria, Mali, Sudan Selatan, Sudan, Libya, Yaman, Guinea Bissau,
+Somalia, Eritrea, Lubnan, Republik Congo, pembinaan semula Iraq , Iraq, Rusia, Ukraine, Nicaragua,
+Venezuela dan Zimbabwe.
+Pergantungan dan Pengulangan: Anda dengan ini mengakui dan bersetuju bahawa Bank akan
+melaksanakan Terma dan Syarat ini atas dasar dan dengan bergantung penuh pada setiap representasi
+dan waranti di atas dan dengan ini mewakili dan menjamin kepada Bank dan untuk manfaat Bank yang
+setiap perwakilan dalam Klausa 5 .2 ini akan diperluas untuk merangkumi setiap
+pembelian, penjualan, penebusan dan pemindahan Emas antara Bank dan anda.
+5.3 Anda mengakui bahawa MIGA-i akan ditadbir oleh dan tertakluk kepada Terma dan Syarat ini , dan
+Terma dan Syarat Umum yang mentadbir Akaun Deposit Islamic, seperti yang diubah, diubah dan / atau
+ditinjau dari semasa ke semasa oleh Bank setelah memberikan dua puluh satu (21) hari kalendar notis
+sebelumnya. Sekiranya terdapat sebarang konflik atau percanggahan antara mana-mana terma dan syarat
+ini, Terma dan Syarat akan diguna pakai dan disifatkan sebagai mengikat anda.
+5.4 Bagi maksud membuat penyelesaian penuh atau pembayaran Emas yang dibeli dan / atau dijual dan
+/ atau menebus dan / atau apa-apa transaksi yang berkaitan dengan MIGA-i, anda berjanji untuk
+membuka dan mengekalkan CASA dengan Bank (yang akan menjadi CASA Yang Ditetapkan untuk tujuan
+Terma dan Syarat ini). Anda memberi kuasa kepada Bank untuk mendebitkan CASA anda bagi
+penyelesaian anda pembelian Emas dan / atau apa-apa yuran dan / atau caj lain di bawah Terma dan
+Syarat ini dan untuk debit dan / atau kredit CASA Yang Ditetapkan untuk mana-mana yuran Ejen
+anda yang berlaku dari MIGA-i anda. Anda seterusnya mengakui dan bersetuju bahawa Bank
+boleh menolak anda permohonan untuk pembukaan MIGA-i jika anda gagal, enggan dan / atau
+meninggalkan untuk membuka CASA dengan Bank.
+5.5 Untuk Akaun Bersama, anda bersetuju untuk terikat dengan yang berikut:
+a) (untuk MIGA-i dibuka di beberapa nama yang tidak melebihi empat (4) orang), anda akan berhak
+atau dibenarkan untuk pembelian, jualan, menebus dan / atau telah memindahkan Emas . Anda juga
+faham bahawa semua kewajipan, kuasa, yang manamana pihak berkuasa dan liabiliti yang
+terkandung dalam Terma dan Syarat ini akan dianggap mengikat pemegang akaun MIGA-i secara
+bersama dan berasingan. Notis itu disifatkan telah diberikan oleh Bank kepada anda apabila mana-
+mana salah satu daripada pemegang Akaun Bersama diberitahu oleh Bank. Anda akan bersama- sama
+dan secara berasingan berjanji untuk mengganti rugi dan melindungi Bank daripada sebarang
+kerugian, tuntutan, permintaan, prosiding, kos, perbelanjaan dan liabiliti lain yang ditanggung oleh
+Bank akibat dan / atau timbul dari Bank yang mematuhi mana-mana kebenaranyang
+dikeluarkan oleh mana-mana daripada pemegang Akaun Bersama melainkan jika ia timbul dari dan
+adalah disebabkan secara langsung oleh kecuaian atau keingkaran Bank secara sengaja;
+b) sekiranya berlaku kematian, kebankrapan atau menjadi kurang siuman sama ada / mana-mana
+daripada anda , sebarang baki yang tinggal dalam kredit anda Akaun Bersama akan dibayar kepada
+pemegang akaun yang bukan bankrap atau siuman bagi pemegang Akaun Bersama mengikut mana-
+mana yang berkenaan, tertakluk kepada prinsip Syariah dan kepada mana-mana pematuhan
+berkanun (jika perlu) dengan undang-undang yang berkaitan yang berkuatkuasa pada masa itu,
+atau mana-mana perintah mahkamah tertakluk kepada Bank yang rugi (untuk memuaskan hatinya)
+dengan yang masih hidup terhadap sebarang tuntutan yang mungkin dibuat terhadap Bank akibat
+Page | 25
+Bank membuat pembayaran tersebut;
+c) sekiranya petisyen kebankrapan atau perintah muflis ditujukan terhadap mana-mana satu atau
+semua anda, Bank boleh mengikut budi bicaranya dan tertakluk kepada pematuhan (jika perlu)
+dengan undang-undang yang berkaitan yang berkuatkuasa pada masa itu, atau apa-apa perintah
+mahkamah, atas permintaan mana-mana satu / mana-mana anda disediakan bahawa anda
+adalah pihak yang tidak ingkar, membolehkan anda untuk menarik diri daripada Akaun Bersama
+mengikut keperluan Bank;
+d) sekiranya kejadian hanya satu daripada anda atau mana-mana anda adalah diberi kuasa untuk
+mengendalikan Akaun Bersama, kuasa yang diberi kepada penandatangan yang diberi kuasa untuk
+mengendalikan Akaun Bersama hendaklah disifatkan sebagai termasuk tanpa batasan yang berikut:
+i. beli, jual, tebus dan / atau pemindahan MIGA-i di bawah Akaun Bersama
+ii. berterusan dan penutupan Akaun Bersama;
+iii. menjalankan mana-mana transaksi yang berkaitan dengan MIGA-i di bawah Akaun Bersama;
+iv. penggunaan mana-mana perkhidmatan elektronik dari semasa ke semasa yang disediakan
+oleh Bank atas apa-apa terma dan syarat dan pembayaran semua fi, kos atau perbelanjaan
+yang berkaitan dengan Akaun Bersama;
+v. peruntukan mana-mana indemniti bertulis yang dikehendaki oleh Bank berkenaan dengan
+operasi Akaun Bersama atau mana-mana perkara di atas;
+vi. secara amnya diberi kuasa untuk memohon, membatalkan, mengubah suai atau melakukan
+semua perkara berkaitan dengan perkara di atas;
+e) jika terdapat sebarang keraguan terhadap apa-apa arahan yang diberikan oleh mana- mana
+anda berhubung dengan pengendalian Akaun Bersama, Bank mempunyai hak untuk meminta
+pengesahan bertulis daripada semua anda sebelum menjalankan arahan tersebut;
+f) Pemegang Akaun Bersama akan secara bersama dan berasingan bertanggungjawab bagi segala
+arahan urusniaga berkenaan dengan Akaun Bersama. Jika Bank menerima arahan yang bercanggah,
+Bank boleh memilih untuk bertindak atas mandat daripada semua pemegang Akaun Bersama dan
+akan tidak bertanggungjawab ke atas sebarang kerugian, tuntutan, permintaan, prosiding, kos,
+perbelanjaan dan kerugian yang disebabkan oleh keengganan Bank untuk bertindak tanpa mandat
+seperti itu;
+g) pemegang Akaun Bersama secara bersama dan berasingan berakujanji untuk menanggung rugi dan
+melindungi Bank terhadap kerugian, tuntutan, permintaan, prosiding, kos, perbelanjaan dan liabiliti
+lain yang ditanggung yang timbul daripada apa-apa arahan yang dikeluarkan oleh mana- mana
+daripada pemegang Akaun Bersama.
+6. PENGAKUAN
+6.1 Anda menyatakan dan berjanji kepada Bank bahawa:
+a) anda bukan seorang muflis yang belum dibebaskan atau diakhiri dan tidak ada Perkara Insolvensi yang
+dikenakan terhadap anda berdasarkan undang-undang Malaysia atau bidang kuasa lain;
+b) maklumat yang anda berikan kepada Bank adalah benar dan betul dan anda membenarkan Bank untuk
+mengesahkan perkara yang sama dengan mana-mana pihak dan menggunakan sumber apa pun yang
+difikirkan sesuai oleh Bank; dan
+c) anda bersetuju dengan pendedahan maklumat oleh Bank di bawah Fasal 27 (Pendedahan Maklumat
+Pelanggan dan Data Peribadi).
+7. PEMBELIAN EMAS
+7.1 Bank mungkin dari semasa ke semasa menjual Emas kepada anda yang sesuai dengan pembelian
+anda mengikut dengan Terma dan Syarat ini. Setiap pembelian mesti dalam bentuk seperti yang
+ditentukan oleh Bank. Bank akan hanya menjadi menerima pembelian Emas di cawangan Maybank jika ia
+diniagakan pada Hari Perniagaan dan melalui Maybank2u jika ia diniagakan pada Waktu Transaksi.
+7.2 Anda mesti menunjukkan borang atau dokumen yang telah lengkap dan dilaksanakan sebagaimana
+yang ditentukan oleh Bank untuk pembelian Emas.
+7.3 Setelah berjaya membuat pembelian anda, Bank akan merekodkan di MIGA- i maklumat berikut:
+Page | 26
+a) nombor siri pemilikan dan nombor siri Bar Emas Fizikal;
+b) kuantiti emas yang dibeli dalam gram;
+c) harga Emas yang dibeli dalam RM yang setara;
+d) harga Emas per gram dalam RM dan
+e) baki emas (dalam gram) pada masa anda arahan pembelian.
+7.4 Sekiranya pembelian anda tidak Berjaya dan/atau tidak lengkap, Bank mempunyai hak untuk
+memperuntukkan, menahan atau mendebit/mengkreditkan jumlah pembelian daripada akaun MIGA-i
+anda atau CASA tertentu mengikut cara yang kami tentukan atas budi bicara yang munasabah.
+7.5 Anda mengakui dan bersetuju bahawa anda akan hanya dibenarkan untuk melakukan pembelian
+dalam Had Transaksi Pembelian semasa Waktu Transaksi dan / atau Hari Perniagaan. Bank berhak untuk
+membatalkan, mengubah atau tidak meneruskan mana-mana pembelian anda yang dibuat melebihi Had
+Transaksi Pembelian.
+7.6 Bank mempunyai hak untuk mengubah Had Transaksi Pembelian dari semasa ke semasadengan
+menyediakan notis awal dua puluh satu (21) hari kalendar.
+7.7 Anda mengakui dan bersetuju untuk melantik Bank sebagai Ejen untuk menetapkan dan
+menyerahkan semula nombor siri Bar Emas Fizikal demi kebaikan anda.
+7.8 Anda mengakui dan bersetuju bahawa kejayaan anda membeli Emas adalah tertakluk kepada had
+penjualan Emas harian Bank.
+8. PEMBELIAN AWAL DAN PEMBELIAN SETERUSNYA
+8.1 Anda mengakui bahawa jumlah Pembelian Awal akan ditentukan oleh Bank dari semasa ke semasa
+dengan memberikan notis awal dua puluh satu (21) hari calendar.
+8.2 Anda bersetuju bahawa setelah Pembelian Awal, sebarang pembelian seterusnya (seperti yang
+dijadualkan di bawah) setelah diluluskan oleh Bank tidak akan dapat ditarik balik.
+Jenis Pelanggan Pembelian Awal Pembelian Seterusnya (Berganda)
+Individu : Akaun
+Tunggal,
+Bersama &
+Dibawah
+Amanah
+Sekurang-kurangnya RM 10
+atau yang setaraf dalam gram
+berdasarkan harga jualan semasa bank
+semasa.
+Sekurang-kurangnya RM 10
+atau yang setaraf dalam gram
+berdasarkan harga jualan semasa Bank.
+Bukan Individu :
+Akaun Pemilikan
+Tunggal
+Sekurang-kurangnya RM 50
+atau yang setaraf dalam gram
+berdasarkan harga jualan semasa Bank.
+Sekurang-kurangnya RM 10
+atau yang setaraf dalam gram
+berdasarkan harga jualan semasa Bank.
+9. HARGA PEMBELIAN
+9.1 Harga per gram untuk setiap pembelian oleh Anda akan menjadi harga jualan dalam RM per gram
+seperti yang disebutkan atau ditunjukkan oleh Bank berdasarkan harga semasa Emas kepada Anda pada
+saat pembelian dilakukan; sama ada pembelian dibuat melalui Maybank2u atau di cawangan Bank.
+Harga jualan yang disebut atau dinyatakan akan ditentukan oleh Bank mengikut budi bicara Bank dengan
+mengambil kira semua faktor yang dianggap relevan.
+9. Anda mengakui bahawa harga beli harian (harga jualan dari perspektif Bank) Emas akan ditunjukkan
+semasa Waktu Transaksi di www.maybank2u.com.my .
+Page | 27
+10. PENYIMPANAN BAR EMAS FIZIKAL
+10.1 Anda boleh melantik Bank untuk bertindak sebagai Ejen anda untuk mengenal pasti, mengatur dan
+membayar dengan pihak ketiga, Penyedia Perkhidmatan Peti Keselamatan untuk menyimpan Emas anda
+yang dibeli dari Bank.
+10.2 Anda tidak akan menanggung Bank untuk sebarang kerugian, kos, caj, tanggungan dan perbelanjaan
+(sama ada masa depan atau luar jangka) disebabkan oleh kecuaian oleh Penyedia Perkhidmatan Peti
+Keselamatan.
+10.3 Bank hanya bertindak sebagai Ejen untuk anda bagi memudahkan penyimpanan Bar Emas Fizikal
+Khas dan / atau Emas Bar Emas Fizikal melalui perkhidmatan yang disediakan oleh Penyedia
+Perkhidmatan Peti Keselamatan. Oleh itu, kebertanggungjawaban Bank kepada anda hanya terhad
+kepada perbuatan cuai atau kegagalan oleh Bank berhubung dengan peranan Bank sebagai Ejen di sini.
+10.4 Bagi perlantikan Bank sebagai anda Ejen, Bank akan mengenakan bayaran Ejen sehingga 0.5%
+setahun berdasarkan nilai purata baki emas anda di dalam MIGA-i. Bayaran Ejen akan didebitkan
+dari CASA Yang Ditetapkan pada setiap bulan.
+10.5 Anda mesti sentiasa memastikan bahawa terdapat jumlah yang mencukupi dalam CASA Yang
+Ditetapkan bagi Bank untuk mendebitkan bayaran Ejen setiap bulan atau pada bila-bila masa yang
+difikirkan patut oleh Bank.
+10.6 Sekiranya bayaran Ejen anda tertunggak selama 3 bulan berturut-turut, Bank akan
+mengeluarkan peringatan terakhir melalui SMS ke nombor telefon bimbit anda yang telah didaftarkan.
+Anda dikehendaki memasukkan amaun yang kena dibayar dalam CASA Yang Ditetapkan dalam tempoh 7
+hari dari tarikh peringatan akhir dihantar. Jika Bank gagal untuk mendebitkan jumlah yang perludibayar
+dalam tempoh 7 hari dari yang CASA Yang Ditetapkan selepas peringatan terakhir, Bank mempunyai
+hak untuk melakukan latihan berikut untuk mendapatkan semula jumlah yangtertunggak :
+a) anda mengakui dan bersetuju untuk melantik Bank sebagai Ejen untuk menjual baki
+Emas dalam MIGA-i anda (Bank akan membeli baki Emas yang ada dalam MIGA-i berdasarkan harga
+semasa belian Bank). Hasil dari lebihan penjualan Emas, Bank akan mengkreditkan ke dalam CASA
+Yang Ditetapkan. Jika anda tidak mempunyai dan / atau menutup CASA Yang Ditetapkan dengan
+Bank, anda diperlukan untuk membuka CASA Yang Ditetapkan yang baru;
+b) untuk Bank menggunakan hak Bank mengambil jumlah yang tertunggak dari mana-mana Akaun
+Perbankan yang didaftarkan atas nama anda dengan Bank.
+10.7 Bank akan menghantar pemberitahuan melalui SMS kepada anda nombor telefon bimbit yang
+didaftarkan sebaik sahaja Bank berjaya memperolehi jumlah yang tertunggak daripada salah satu
+daripada latihan di atas.
+11. PEMINDAHAN EMAS
+11.1 Anda mengakui dan bersetuju bahawa pihak Bank membenarkan anda untuk memindahkan baki Emas
+yang ada dalam gram daripada MIGA- i anda kepada akaun MIGA-i lain yang didaftarkan di bawah nama
+anda untuk akaun bersama dan / atau pihak ketiga. Anda juga mengakui dan bersetuju bahawa mana-
+mana pemindahan emas yang anda lakukan menurut klausa ini tidak akan bercanggah dengan prinsip
+Syariah.
+11.2 Pemindahan Emas dalam akaun MIGA-i adalah tertakluk kepada maksima nilai Emas sehingga50,000
+sehari berdasarkan harga semasa belian Bank.
+11.3 Apabila Bank menerima anda arahan untuk pemindahan Emas, Bank akan mengemas kini MIGA-i
+anda sewajarnya.
+12. PENEBUSAN EMAS
+12.1 Anda mengakui dan bersetuju bahawa:
+Page | 28
+a) semasa Bank menerima anda arahan untuk penebusan Emas, Bank akan mengemas kini MIGA-i anda
+sewajarnya;
+b) anda boleh menjual Bar Emas Fizikal Khas dan/atau Bar Emas Fizikal yang ditebus kepadaBank
+berdasarkan harga semasa belian Bank;
+c) ank menyediakan pilihan kepada anda untuk menebus Bar Emas Fizikal Khas dan/atau Bar EmasFizikal
+di saluran berikut:
+No. Saluran
+Penebusan
+Kenyataan Jumlah Penebusan Gram
+Setiap Permohonan /
+Penghantaran
+Denominasi
+Emas
+Berkaitan
+Min Maks
+1 Cawangan
+Maybank Terpilih
+Ambil sendiri
+berdasarkan kepada
+1 gram 300 grams 1 gram
+5 grams
+stok Emas yang ada 10 grams
+50 grams
+100 grams
+Ambil sendiri 1,000 grams Tertakluk
+kepada baki
+Emas dalam
+MIGA-i
+anda
+1,000 grams
+berdasarkan kepada
+Perkhidmatan
+Temujanji
+2 Perkhidmatan Perkhidmatan 1 gram 100 grams 1 gram
+Penghantaran penghantaran boleh
+menampung sehingga
+5 grams
+10 grams
+100 grams setiap 50 grams
+penghantaran 100 grams
+(bungkusan)
+3 Perkhidmatan
+Penhantaran
+Khas
+Perkhidmatan
+penghantaran khas
+boleh menampung
+sehingga 3,000 grams
+bagi setiap
+penghantaran.
+500 grams
+(Semenanjung
+Malaysia)
+1,000 grams
+(Malaysia
+Timur)
+3,000 grams 1 gram
+5 grams
+10 grams
+50 grams
+100 grams
+1,000 grams
+d) bagi Perkhidmatan Penebusan Emas, pihak Penjual Emas akan mengenakan caj pada anda mengikut
+fasal 20.4.
+e) untuk pengambilan sendiri di cawangan Maybank terpilih, anda tidak perlu membayar sebarang caj
+selain daripada caj Penebusan Emas. Untuk Perkhidmatan Penghantaran dan / atau Perkhidmatan
+Penghantaran Khas, anda harus membayar caj Peekhidmatan Penghantaran dan / atau Perkhidmatan
+Penghantaran Khas selain daripada caj Penebusan Emas.
+f) bagi Perkhidmatan Penghantaran dan / atau Perkhidmatan Penghantaran Khas , pihak Penjual Emas
+akan mengenakan caj pada anda mengikut fasal 20 .5.
+g) bagi Perkhidmatan Penghantaran dan / atau Perkhidmatan Penhantaran Khas , anda bersetuju bahawa
+Penjual Emas akan melakukan proses penghantaran . Oleh itu, Anda dengan ini memahami dan
+bersetuju untuk pihak Bank mendedahkan maklumat yang relevan kepada Penjual Emas, misalnya
+nama penerima, alamat surat menyurat dan nombor yang boleh dihubungi;
+h) untuk memudahkan Perkhidmatan Penghantaran dan / atau Perkhidmatan Penghantaran Khas , anda
+dikehendaki menyediakan dua (2) nama penerima , dua (2) nombor yang boleh dihubungi dan satu
+(1) alamat surat menyurat kepada Bank.
+12.2 Untuk Perkhidmatan Penghantaran:
+a) Penjual Emas akan melantik syarikat penghantaran yang berdaftar untuk menghantar Bar Emas Fizikal
+Khas kepada penerima yang telah diberikan oleh anda antara 3 hingga 7 Hari Perniagaan. Jika
+syarikat penghantaran tidak dapat untuk menghantar Bar Emas Fizikal Khas kepada penerima
+pada percubaan yang pertama, syarikat penghantaran yang berdaftar akan cuba untuk menghantar
+Bar Emas Fizikal Khas untuk kali kedua (akhir). Sekiranya kali kedua (akhir) juga gagal , syarikat
+penhantar yang didaftarkan akan menyimpan Bar Emas Fizikal Khas dan akan memaklumkan kepada
+Page | 29
+penerima untuk mengambil Bar Emas Fizikal Khas dalam tempoh masa 7 hari dari tarikh percubaan
+yang kedua (akhir). Sekiranya tidak ada pengambilan dalam tempoh yang ditetapkan, syarikat
+penhantaran yang didaftarkan akan mengembalikan Bar Emas Fizikal Khaskepada Penjual Emas.
+b) untuk Bar Emas Fizikal Khas yang tidak diambil dan telah dikembalikan kepada Penjual Emas , Penjual
+Emas akan membuat perlu membuat perancangan yang perlu dengan Bank dan / atau anda untuk
+membuat permintaan yang baru untuk Perkhidmatan Penghantaran kepada penerima yang sama atau
+berbeza;
+c) untuk memudahkan perancangan mengikut fasal 12 .2 (b), andan dan / atau penerima adalah /adalah
+diperlukan untuk membuat satu lagi bayaran untuk Perkhidmatan Penghantaran di mana- mana
+Maybank cawangan untuk Perkhidmatan Penghantaran yang baru;
+d) Bank berhak untuk mengenakan caj yang baru menurut klausa 20 .5 untuk setiap permintaan
+Perkhidamatan Penhantaran yang baru.
+12.3 Perkhidmatan Penghantaran Khas:
+a) Penjual Emas akan menghantar Bar Emas Fizikal Khas dan/atau Bar Emas Fizikal
+kepada penerima yang telah diberikan oleh anda antara 3 hingga 7 Hari Perniagaan.
+Sekiranya Penjual Emas tidak dapat menghantar Bar Emas Fizikal Khas dan/atau Bar Emas Fizikal
+kepada penerima, Penjual Emas akan menyimpan Bar Emas Fizikal Khas dan/atau Bar Emas Fizikal
+dan akan memaklumkan kepada penerima untuk mengambil Bar Emas Fizikal Khas dan/atau Bar Emas
+Fizikal dalam tempoh masa 7 hari dari tarikh penghantaran;
+b) untuk Bar Emas Fizikal Khas dan/atau Bar Emas Fizikal Khas yang disimpan oleh Penjual Emas, Penjual
+Emas akan membuat perancangan yang perlu dengan Bank dan / atau anda seperti berikut:
+i. penerima perlu mengambil Bar Emas Fizikal Khas dan/atau Bar Emas Fizikal dari pejabat Penjual
+Emas;
+ii. untuk meminta Perkhidmatan Penghantaran Khas yang baru kepada penerima yang sama atau
+berbeza;
+c) untuk memudahkan perancangan mengikut fasal 12.3 (b) (ii), anda dan / atau penerima perlu untuk
+membuat satu lagi bayaran Perkhidmatan Penghantaran Khas di mana-mana cawangan Maybank
+untuk yang baru Perkhidmatan Penghantaran Khas yang baru;
+d) Bank mempunyai hak untuk mengenakan caj yang baru mengikut fasal 20 .5 untuk sebarang
+permintaan Perkhidmatan Perghantaran Khas yang baru.
+12.4 Untuk Perkhidmatan Temujanji:
+a) anda bersetuju dengan tarikh temujanji yang akan dipersetujui oleh Bank dan anda bersetuju
+untuk Bank untuk mendebit caj penebusan Emas mengikut fasal 20.4 daripada CASAanda.
+b) jika tarikh permohonan anda pada atau sebelum 5 haribulan setiap bulan, anda bersetuju bahawa
+tarikh Perkhidmatan Temujanji itu akan ditentukan pada bulan yang sama antara 15 haribulan
+sehingga akhir bulan .
+c) jika tarikh permohonan anda selepas 5 haribulan setiap bulan, anda bersetuju bahawa tarikh
+Perkhidmatan Temujanji akan ditentukan pada bulan berikutnya antara 15 haribulan sehingga akhir
+bulan.
+d) Penjual Emas akan menyerahkan Bar Emas Fizikal kepada anda melalui PerkhidamatanTemujanji
+di cawangan Maybank terpilih.
+e) sekiranya anda tidak dapat datang pada tarikh Perkhidamatan Temujanji yang telah ditetapkan,
+anda hendaklah memaklumkan kepada Bank 2 Hari Perniagaan awal tarikh Perkhidmatan Temujanji
+dan Bank akan perlu membuat perancangan yang baru dengan Penjual Emas untuk tentukan tarikh
+Perkhidamatanb Temujanji yang baru dan sebaliknya;
+13. JUALAN EMAS
+13.1 Anda mengakui dan bersetuju untuk menjual emas dalam MIGA-i di cawangan Maybank semasaHari
+Perniagaan atau melalui Maybank2u semasa Waktu Transaksi dengan mengisi borang atau dokumen seperti
+yang ditetapkan oleh Bank tertakluk kepada keperluan Bank keperluan dan harga Emas semasa.
+13.2 Anda mesti menunjukkan borang atau dokumen yang lengkap yang ditetapkan oleh Bank untuk
+penjualan Emas.
+Page | 30
+13.3 Setelah penjualan Emas anda berjaya, Bank akan mencatat di MIGA- i berdasarkan maklumat
+berikut:
+a) kuantiti Emas dijual dalam gram;
+b) harga Emas yang dijual di RM setaraf;
+c) harga Emas dijual per gram dalam RM dan
+d) baki Emas (dalam gram) dalam MIGA-i.
+13.4 Sekiranya jualan anda tidak Berjaya dan/atau tidak lengkap, Bank mempunyai hak untuk
+memperuntukkan, menahan atau mendebit/mengkreditkan jumlah pembelian daripada akaun MIGA-i
+anda atau CASA tertentu mengikut cara yang kami tentukan atas budi bicara kami yang munasabah.
+13.5 Anda mengakui dan bersetuju bahawa anda hanya dibenarkan untuk melaksanakan jualan dalam
+Had Transaksi Penjualan. Bank berhak untuk membatalkan atau mengubah mana-mana arahan penjualan
+anda dan / atau transaksi jualan yang dibuat yang melebihi Had Transaksi Penjualan.
+13.6 Bank mempunyai hak untuk mengubah Had Transaksi Penjualan dari semasa ke semasa dengan
+memberi notis awal dua puluh satu (21) hari kalendar.
+13.7 Anda mesti memastikan bahawa sebarang arahan penjualan terhad kepada kuantiti Emas sebenar
+di MIGA-i. Sekiranya terdapat baki Emas yang tidak mencukupi dalam MIGA-i, Bank boleh
+menolak untuk melaksanakan arahan pejualan anda.
+13.8 Anda mengakui dan bersetuju untuk melantik Bank sebagai Ejen untuk memberikan dan
+menetapkan semula nombor siri Bar Emas Fizikal untuk kebaikan anda.
+14. HARGA JUALAN
+14.1 Setiap penjualan Emas akan ditentukan pada harga belian semasa dalam Ringgit Malaysia (RM) per
+gram sebagaimana disebutkan atau ditunjukkan oleh Bank berdasarkan kepada harga semasa Emas belian
+Bank kepada Anda pada saat transaksi tersebut , samada jualan dibuat melalui Maybank2u atau di
+cawangan Maybank. Harga belian yang disebut dan dinyatakan akan ditentukan oleh Bank mengikut budi
+bicaranya dengan mengambil kira semua faktor yang difikirkan relevan.
+14.2 Anda dengan ini mengakui bahawa harga jualan harian indikatif (harga beli dari perspektif Bank)
+Emas akan dipaparkan semasa Waktu Transaksi di www.maybank2u.com.my .
+15. HASIL JUALAN
+15.1 Bank akan membayar hasil penjualan Emas anda dalam RM pada Hari Perniagaan yang sama dimana
+hasil jualan Emas akan dikredit terus ke dalam CASA pilihan anda selepas ditolak sebarang bayaran (jika
+ada).
+15.2 Anda boleh mengambil hasil penjualan Emas dari MIGA-i anda di mana-mana cawangan Maybank
+dan Maybank2u semasa Waktu Transaksi yang ditetapkan oleh Bank.
+16. JUAL BALIK BAR EMAS FIZIKAL
+16.1 Anda boleh melakukan yang Jual Balik Bar Emas Fizikal semasa Hari Perniagaan di cawangan
+Maybank yang terpilih berdasarkan harga belian semasa dalam Ringgit Malaysia (RM) bagi setiap gram
+seperti yang ditentukan atau disebutkan oleh Bank berdasarkan harga Emas semasa kepada anda pada
+masa transaksi tersebut.
+16.2 Untuk Jual Balik Bar Emas Fizikal Khas kepada Bank, anda membenarkan Bank untuk melakukan
+pemeriksaan ke atas Bar Emas Fizikal Khas berdasarkan kepada senarai semak. Bank mempunyai hak
+untuk menolak transaksi Jual Balik Bar Emas Fizikal Khas jika senarai semak berikut tidak dipenuhi:
+Page | 31
+a) Bank tidak mempunyai rekod nombor siri Bar Emas Fizikal Khas;
+b) nombor siri pada bungkusan keselamatan tidak sepadan dengan nombor siri terukir pada Bar Emas
+Fizikal Khas kecuali denominasi 1 gram
+c) Bar Emas Fizikal Khas tidak tidak berada dalam kedudukan yang sepatutnya dalam bungkusan
+keselamatan
+Untuk Jual Balik Bar Emas Fizikal kepada Bank , anda perlu untuk membuat PerkhidmatanTemujanji
+dengan Bank dan Bank akan membuat yang perancangan yang perlu dengan
+PenjualEmas untuk menentukan ketulenan Bar Emas Fizikal. Urusan Perkhidmatan Temujanji
+seperti dibawah:
+a) jika tarikh permohonan anda pada atau sebelum 5 haribulan setiap bulan, anda bersetuju bahawa
+tarikh Perkhidmatan Temujanji pada bulan yang sama antara 15 hingga akhir bulan.
+b) jika tarikh permohonan anda selepas 5 haribulan setiap bulan, anda bersetuju bahawa tarikh
+Perkhidmatan Temujanji pada bulan berikutnya antara 15 hingga akhir bulan.
+16.3 Jual Balik Bar Emas Fizikal hanya diterima untuk pemegang akaun MIGA- i sahaja (parti pertama).
+16.4 Penjual Emas akan melakukan pemeriksaan berdasarkan senarai semak sebelumBank
+membeli semula Bar Emas Fizikal dari anda.
+16.5 Hasil dari apa-apa jualan Emas hendaklah dibayar kepada anda dalam RM pada Hari Perniagaan yang
+sama dimana hasil jualan akan dikredit terus ke dalam CASA pilihan anda.
+16.6 Hasil dari penjualan Bar Emas Fizikal Khas dan / atau Bar Emas Fizikal tidak boleh dikreditkan ke
+MIGA-i dalam bentuk gram.
+16.7 Jual Balik Bar Emas Fizikal Khas dan/atau Bar Emas Fizikal kepada Bank hanya diterimadi
+cawangan Maybank terpilih sahaja.
+17. UNTUK PESANAN MASA DEPAN DAN / ATAU JUALAN EMAS
+17.1 Anda berjanji untuk memastikan dana yang mencukupi di dalam anda CASA pilihan anda
+untuk memenuhi arahan anda untuk membeli Emas apabila harga Emas yang ditentukan oleh anda
+sepadan dengan harga semasa jualan Bank di bawah transaksi Pesanan Masa Depan.
+17.2 Anda bertanggungjawab untuk memastikan bahawa baki Emas mencukupi (Emas ada
+dalam gram) dalam MIGA-i anda untuk dijual apabila harga Emas yang ditentukan oleh
+anda sepadan dengan harga semasa belian Bank di bawah transaksi Pesanan Masa Depan.
+17.3 Sekiranya terdapat dana yang tidak mencukupi dan / atau baki Emas atau jika tiada dana dan / atau
+baki Emas dikekalkan dalam anda CASA dan / atau MIGA- i, Bank berhak untuk tidak melaksanakan
+Pesanan Masa Depan berhubung dengan arahan anda untuk pembelian dan / atau penjualan Emas.
+17.4 Sekiranya Pesanan Masa Depan dilaksanakan oleh Bank, anda bersetuju bahawa:
+a) untuk melantik Bank sebagai Ejen untuk melaksanakan pembelian dan / atau penjualan bagi pihak
+anda;
+b) Bank akan dianggap mempunyai kebenaran penuh dari anda untuk melaksanakan pembelian dan /
+atau penjualan Emas;
+c) Bank akan debit dana yang mencukupi dan / atau baki Emas dalam anda CASA pilihan anda dan /
+atau MIGA-i;
+17.5 Sekiranya Pesanan Masa Depan dilaksanakan oleh Bank, tetapi pembelian dan/atau penjualan tidak
+lengkap, Bank mempunyai hak untuk memperuntukkan, menahan atau mendebit/mengkreditkan jumlah
+pembelian daripada akaun MIGA-i anda dengan cara yang kami tentukan mengikut budi bicara kami yang
+munasabah.
+17.6 Anda memahami dan bersetuju bahawa anda hanya dibenarkan untuk melakukan Pesana Masa Depan
+Page | 32
+melalui Maybank2u semasa Waktu Transaksi dan dalam Had Transaksi Pembelian dan / atau Had Transaksi
+Penjualan, mengikut mana-mana yang berkenaan, dan bahawa Pesana Masa Depan hanyaakan proses
+dan / atau dilaksanakan oleh Bank.
+17.7 Jika Bank tidak dapat memenuhi Pesanan Masa Depan termasuk sekiranya jualan Emas dan / atau
+harga belian Emas tidak sepadan semasa tempoh Pesanan Mas Depan (dari tarikh permohonan sehingga
+tarikh luput) telah dipilih oleh anda , anda mengakui dan bersetuju bahawa apa-apa Pesanan Masa Depan
+yang dibuat oleh anda akan dibatalkan dan tidak akan dilakukan oleh Bank.
+Untuk setiap pembelian atau penjualan Emas yang Berjaya di bawah Pesan Masa Depan anda, anda
+akan diberitahu oleh Bank melalui peti masuk dan / atau dalam transaksi Maybank2u anda. Anda seterusnya
+memberi kuasa kepada Bank untuk menghantar SMS kepada nombor mudah alih anda dan / atau
+pemberitahuan melalui Maybank2u. Anda mengakui bahawa anda akan bertanggungjawab untuk memastikan
+bahawa notis yang dihantar oleh Bank tidak didedahkan atau diberi akses kepada pihak lain. Bank tidak akan
+bertanggungjawab ke atas sebarang kerugian atau ganti rugi yang berbangkit daripada anda pendedahan
+kepada pihak ketiga.
+17.8 Pesanan Masa Depan akan terus berkuatkuasa untuk memberi perlindungan kepada Bank berkenaan
+dengan semua pembelian dan / atau penjualan Emas dibuat walaupun dengan kematian atau kebankrapan
+atau pembatalan Pesanan Masa Depan oleh anda sehingga notis kematian atau kebankrapan atau
+pembatalan tersebut diterima oleh Bank.
+18. GANTI RUGI
+18 .1 Anda setuju untuk memberikan ganti rugi kepada Bank atas segala tuntutan, kerugian, ganti rugi,
+denda, caj, biaya dan perbelanjaan (termasuk biaya berdasarkan pengacara dan pelanggan) yang
+mungkin ditanggung atau ditanggung oleh Bank akibat: -
+a) pelanggaran Terma dan Syarat anda;
+b) tindakan penipuan anda;
+c) pendedahan anda mengenai Perincian Keselamatan kepada orang lain atau dengan cara apa pun
+termasuk melalui e-mel atau ke laman web pihak ketiga;
+d) kegagalan anda untuk mengambil langkah-langkah yang munasabah untuk merahsiakan Maklumat
+Keselamatan dan / atau selamat sepanjang masa;
+e) kegagalan anda untuk melaporkan pelanggaran, pendedahan atau kompromi Maklumat Keselamatan
+secepat mungkin apabila menyedari pelanggaran atau kerugian masing-masing;
+f) Bank yang bertindak atas arahan dan kebenaran Penandatangan yang Sah atau anda;
+g) Bank menguatkuasakan mana-mana haknya terhadap anda;
+h) Bank yang mematuhi segala undang-undang, Sanctions Law, dasar, panduan atau peraturan BNM,
+pihak berkuasa atau Bank; atau
+i) Bank yang mematuhi setiap keputusan, perintah, keputusan atau arahan (sama ada mereka
+mempunyai kekuasaan dari segi undang-undang atau tidak ) yang dikeluarkan oleh mahkamah mana-
+mana mahkamah, mana-mana badan pengadilan atau Pihak Berkuasa yang dibentuk secara sah , yang
+diarahkan kepada atau berkaitan dengan anda dan / atau anda MIGA-i.
+18 .2 Sekiranya anda menggunakan Maybank2u, kami tidak akan meminta anda membayar ganti rugi
+kepada kami untuk situasi di bawah (melainkan anda juga bersalah kerana kecuaian, penipuan atau salah
+laku anda):
+a) kerosakan teknikal atau terbukti kekurangan dalam sistem dan peralatan yang berada di
+bawah kawalan penuh Bank;
+b) kelemahan atau kerentanan yang terbukti dalam ciri keselamatan dan kawalan yang diterima oleh
+Bank;
+c) transaksi yang berlaku setelah anda memberitahu Bank bahawa Maklumat Keselamatan anda telah
+disusupi atau dilanggar;
+d) transaksi yang berlaku tepat sebelum anda memberitahu Bank bahawa Maklumat Keselamatan
+anda telah disusupi atau dilanggar dan pemberitahuan kepada Bank telah dilakukan dengan
+segera;
+e) transaksi yang berlaku sebelum anda menerima Maklumat Keselamatan anda; atau
+f) Maklumat Keselamatan yang dipalsukan, rosak, tamat tempoh atau dibatalkan.
+Page | 33
+19. PENUTUP MIGA-i
+19.1 Sekiranya anda ingin menutup MIGA-i, anda boleh melakukannya dengan menjual semua baki
+Emas kepada Bank pada harga semasa belian yang akan ditentukan dan disebutkan oleh Bank pada masa
+penjualan tersebut dan semua hasil penjualan akan dibayar kepada anda dalam Ringgit Malaysia dengan
+kredit terus ke dalam CASA.
+Page | 34
+19.2 Anda juga boleh menutup MIGA-i dengan memindahkan semua baki Emas kepada MIGA-i lain yang
+didaftarkan di bawah anda nama atau pihak ketiga.
+19.3 MIGA-i anda hanya boleh ditutup apabila anda minta penutupan MIGA-i di cawangan Maybank atau
+melalui Maybank2u. Di cawangan Maybank cawangan, pasport yang sah atau MyKad mesti ditunjukkan
+untuk penutupan MIGA-i. Anda harus mematuhi semua syarat Bank untuk penutupan MIGA-i yang
+dinyatakan di sini dan / atau yang mungkin ditetapkan oleh Bank dari semasa ke semasa
+dengan memberi notis awal dua puluh satu (21) hari kalendar sebelum tarikh kuat kuasa.
+19.4 Bank berhak untuk menutup MIGA-i sekiranya Bank rasakan wajar, dengan memberi notis awal dua
+puluh satu (21) hari kalendar. Sekiranya terdapat apa-apa baki Emas dalam MIGA-i, anda memberikuasa
+kepada Bank untuk menjual Emas tersebut dengan apa cara dan atas apa-apa terma dan syarat
+sebagaimana yang Bank rasakan wajar. Hasil penjualan akan dikreditkan ke dalam CASA pilihan anda.
+Bank tidak akan bertanggungjawab ke atas sebarang kerugian, jika ada, dalam penjualan Emas
+atau apa-apa kerugian atau susut nilai Emas bagi apa-apa sebab termasuk tetapi tidak terhad kepada
+turun naik harga Emas dan / atau turun naik kadar pertukaran mata wang. Anda dengan jelas dan tidak
+boleh dibatalkan bersetuju bahawa pertimbangan dan budi bicara Bank berkenaan dengan masa, harga
+dan terma jualan Emas akan muktamad, mengikat dan konklusif dan akan tidak boleh dipersoalkan oleh
+anda pada mana-mana akaun.
+19.5 Bank berhak menutup MIGA-i sekiranya tidak ada baki emas di MIGA-i selama 3 tahun berturut- turut
+tanpa perlu memberikan alasan dan / atau notis kepada anda.
+20. YURAN DAN CAJ
+20.1 Anda bersetuju dan berjanji untuk membayar kepada Bank semua caj perkhidmatan atau transaksi
+berkenaan dengan atau berkaitan dengan MIGA-i sesuai dengan praktik Bank yang berlaku.
+Perkhidmatan atau transaksi bayaran akan didebitkan dari anda CASA dan / atau mana-mana akaun lain
+yang diselenggarakan oleh anda dengan Bank tanpa notis terlebih dahulu. Bank akan
+memberitahu secara bertulis anda tentang sebarang perubahan kepada yang caj yang dikenakan
+terhadap MIGA- i oleh sekurang-kurangnya dua puluh satu (21) hari kalendar sebelum tarikh kuat kuasa
+perubahan.
+20.2 Untuk tujuan ini, anda akan membuat pembayaran caj tersebut dengan memastikan bahawa
+terdapat dana yang mencukupi didalam CASA anda setiap masa untuk Bank melakukan debit.
+20.3 Bank diberikuasa untuk mendebitkan caj perkhidmatan sebanyak RM5 daripada CASA anda yang
+mana caj perkhidmatan ini berkaitan dengan transaksi MIGA-i yang dilakukan di kaunter cawangan
+Maybank untuk transaksi berikut:
+a) beli Emas
+b) jual Emas
+c) pindahan Emas
+20.4 Bank tidak akan mengenakan apa-apa yuran dan caj apabila anda melakukan urusniaga di atas di
+Maybank2u.
+20.5 Bank diberi kuasa untuk mendebitkan caj Penebusan Emas daripada CASA anda atau jumlah lain
+yang ditentukan oleh Bank dari semasa ke semasa seperti di bawah:
+Denominasi Emas Jumlah Caj Penebusan Setiap Keping (RM)
+1 gram RM25.00
+5 grams RM36.50
+10 grams RM63.00
+50 grams RM242.50
+100 grams RM340.00
+1,000 grams RM1,450.00
+Page | 35
+20.6 Caj Penebusan Emas dikenakan oleh Penjual Emas.
+20.7 Bank diberi kuasa untuk mendebitkan caj Perkhidmatan Penghantaran dan / atau Perkhidmatan
+Penghantaran Khas atau jumlah lain yang ditentukan oleh Bank dari semasa ke semasa seperti di bawah:
+Caj Perkhidmatan Penghantaran
+Perkara Semenanjung Malaysia Timur Malaysia
+(Sabah & Sarawak)
+Bayaran Insurans RM2 setiap gram RM2 setiap gram
+Pengendalian, pengumpulan
+dan caj penghantaran RM16.75 setiap penghantaran RM22.75 setiap penghantaran
+Jumlah Grams Setiap
+Penhantaran (Bungkusan)
+Minima 1 gram -
+Maksima 100 grams
+Minima 1 gram -
+Maksima 100 grams
+Caj Perkhidmatan Penghantaran Khas
+Perkara Semenanjung Malaysia Timur Malaysia
+(Sabah & Sarawak)
+Bayaran Perkhidmatan RM970 setiap penghantaran RM2,135 setiap penghantaran
+Jumlah Grams Setiap
+Penghantaran
+Minima 500 grams –
+Maksima 3,000 grams
+Minima 1,000 grams –
+Maksima 3,000 grams
+20.8 Bank tidak akan mengenakan apa-apa yuran dan caj selain dari caj Penebusan Emas sekiranya anda
+mengambil sendiri Bar Emas Fizikal Khas dan / atau Bar Emas Fizikal di Cawangan Maybank terpilih.
+20.9 Caj Perkhidmatan Penghantaran dan/atau Perkhidmatan Penghantaran Khas dikenakan oleh
+Penjual Emas.
+20.10 Bagi perlantikan Bank sebagai anda Ejen, Bank akan mengenakan bayaran Ejen sehingga 0.5%
+setahun berdasarkan nilai purata baki emas anda di dalam MIGA-i. Bank diberikuasa untuk mendebitkan
+bayaran Ejen dari CASA Yang Ditetapkan pada setiap bulan atau pada bila-bila masa yang akan ditentukan
+oleh Bank.
+20.11 Jika Bank gagal untuk mendebitkan yuran Ejen jumlah yang tertunggak selama 3 bulan berturut-
+turut dari CASA Yang Ditetapkan, anda memberi kuasa kepada Bank untuk menjual baki Emas
+dalam MIGA-i anda untuk menyelesaikan amaun tertunggak yang kenadibayar dan
+untuk membayar balik jumlah baki hasil dari penjualan ke dalam CASA Yang Ditetapkan, jika ada .
+21. HAK UNTUK MENGGABUNGKAN AKAUN DAN KETETAPAN
+21.1 Bank boleh menggabungkan atau menyatukan semua atau mana-mana akaun anda dengan, dan
+liabiliti yang terhutang kepada Bank, setelah memberi [tujuh (7) hari kalendar '] pemberitahuan
+sebelumnya kepada anda untuk menetapkan atau memindahkan jumlah yang belum dijelaskan untuk
+kredit dari mana-mana akaun tersebut untuk memenuhi kepuasan mana-mana liabiliti anda yang
+terhutang kepada Bank (sama ada di bawah Kemudahan atau sebaliknya) dan / atau kepada syarikat
+lain yang berkaitan dengan Bank.
+Pada masa yang sama, Bank boleh memperuntukkan dana yang ada di dalam akaun anda untuk
+membayar baki kemudahan yang ada pada saat mengeluarkan notis itu kepada Bank.
+Page | 36
+22. PEMBEKUAN MIGA-i
+22.1 Bank boleh mengikut budi bicara Bank, yang akan dilaksanakan oleh Bank secara wajar,
+membekukan atau menangguhkan MIGA-i anda dengan alasan apa pun, melainkan dilarang oleh undang-
+undang. Sebab-sebab tersebut merangkumi:
+a) anda mengalami Masalah Insolvensi;
+b) adanya Arahan Pihak Berkuasa;
+c) anda melakukan, atau Bank mempunyai alasan untuk mempercayai bahawa anda atau pihak ketiga
+menyalahgunakan, melakukan aktiviti haram atau penipuan melalui MIGA-i (ini termasuk pengambilan
+deposit dan penipuan haram);
+d) anda salah mengemukakan identiti anda atau memberikan maklumat atau dokumen yang salah, tidak
+betul atau mengelirukan yang berkaitan dengan MIGA-i;
+e) laporan Polis dibuat terhadap anda atau di MIGA-i oleh mana-mana orang termasuk Bank ;
+f) siasatan sedang dijalankan oleh Pihak Berkuasa atau oleh Bank terhadap anda atau MIGA-i;
+g) anda gagal memberitahu Bank mengenai sebarang perubahan dalam butir-butir peribadi anda seperti
+alamat kediaman, alamat surat-menyurat dan nombor hubungan anda;
+h) kematian pemegang Akaun atau Penandatangan yang Dibenar;
+i) sebarang pembayaran perlu dibayar dan dibayar oleh anda kepada Bank sama ada sebagai pelanggan,
+pihak keselamatan atau penjamin dan tidak dibayar ;
+j) anda tidak berupaya mental;
+k) Bank menerima perintah mahkamah atau dokumen undang-undang lain yang melarang MIGA-i
+beroperasi;
+l) anda menyalahgunakan Perkhidmatan Perbankan Elektronik atau sistem IT kami; dan
+m) anda melanggar Terma dan Syarat ini.
+22.2 Bank boleh mempertimbangkan untuk melepaskan pembekuan tertakluk kepada yang berikut :
+a) Untuk Perkara Insolvensi:
+i.untuk pesanan muflis, anda mesti memberikan bukti yang memuaskan kepada pihak Bank
+bahawa insolvensi tersebut telah diberhentikan atau ditinggalkan secara kekal atau Official
+Assignee telah bersetuju agar MIGA-i dikendalikan oleh Bank ;
+ii. Bank diperintahkan oleh mahkamah untuk melepaskan Pembekuan.
+b) Berkenaan dengan Penghakiman Mahkamah, perintah-perintah Mahkamah atau dekri yangsama,
+Bank adalah diperintahkan oleh itu mahkamah undang-undang untuk mengangkat daripadaPembekuan
+itu;
+c) Sehubungan dengan Arahan Pihak Berkuasa, Bank diberi kuasa secara bertulis oleh Pihak Berkuasa
+untuk meningkatkan Pembekuan;
+d) berkenaan dengan penyiasatan,
+i. Bank berpuas hati bahawa tidak perlu siasatan lebih lanjut; atau
+ii. Bank diberi pernyataan bertulis dari pihak Berkuasa yang memuaskan kepada Bank yang
+memaklumkan bahawa siasatan telah dihentikan;
+e) Berkenaan dengan kematian, sekiranya Bank diserahkan dengan Pemberian Probet, Surat
+Pentadbiran atau dokumen undang-undang yang setara oleh wakil peribadi Pemegang Akaun;
+f) Mengenai pembayaran yang perlu dibayar dan dibayar kepada Bank, apabila Bank menggunakan hak
+Bank untuk mengakhiri.
+g) Mengenai keupayaan mental,
+i.Bank berpuas hati bahawa keadaan keupayaan mental anda tidak mempengaruhi kemampuan
+anda mengendalikan MIGA-i ; atau
+ii. Bank diperintahkan oleh mahkamah undang-undang untuk membenarkan perwakilan peribadi
+anda mengendalikan MIGA-i.
+22.3 Bank akan tidak bertanggungjawab ke atas sebarang tuntutan, kerugian, kerosakan, penalti, caj,
+kos dan perbelanjaan yang dialami atau ditanggung oleh anda akibat Pembekuan itu.
+Page | 37
+23. TIADA TUGASAN
+23.1 Semua hak milik, kepentingan dan faedah di bawah CASA , MIGA-i dan Emas yang terkandung di
+dalamnya tidak boleh dipindah milik dan tidak boleh diserahkan dan tidak boleh dijadikan tunduk pada
+janji, caj, gadai janji atau dijadikan subjek sebarang hak gadai janji dan / atau apa-apa bentuk bebanan
+atau keselamatan yang lain sekiranya yang serupa dibuat untuk Bank.
+24. PEMBERITAHUAN
+24.1 Sebarang notis atau komunikasi boleh dibuat secara bertulis. Bank boleh menyampaikan
+pemberitahuan komunikasi tersebut secara peribadi, melalui pos atau faksimili kepada anda di alamat
+terakhir anda yang diketahui dalam rekod kami, melalui penghantaran elektronik (termasuk SWIFT,
+Perkhidmatan Pesanan Ringkas atau e-mel), di atau melalui laman web Bank atau melalui kaedah lain
+yang ditentukan oleh Bank dari semasa ke semasa. Segala pemberitahuan atau komunikasi kepada anda
+akan dianggap diterima (melainkan ada bukti bertentangan bahawa notis atau komunikasi tersebut
+sebenarnya tidak diterima): -
+a) jika dihantar secara peribadi, pada masa penghantaran; atau
+b) jika diposkan, pada (ketiga (ke-3) hari kerja selepas pengeposan (di dalam Malaysia) dan pada hari
+ketujuh (ke-7) selepas pengeposan (di luar Malaysia)); atau
+c) dalam hal transmisi faksimili, pada hari perniagaan selepas penghantaran dengan syaratbahawa
+Bank hanya menerima pengesahan yang menyampaikan jawab; atau
+d) sekiranya berlaku penghantaran elektronik, pada waktu yang dihantar kepada anda,
+kecuali Bank menerima pesanan automatik bahawa penghantaran elektronik belum dihantar.
+Tidak ada perubahan pada alamat anda yang dinyatakan dalam Surat Tawaran ini yang akan berlaku atau
+mengikat Bank, melainkan anda telah memberi notis sebenar kepada Bank mengenai pertukaran alamat,
+secara bertulis.
+25. PERUBAHAN TERMA DAN SYARAT
+25.1 Bank berhak untuk menambah, mengubah atau menghapus mana-mana Terma dan Syarat ini
+sebagaimana yang difikirkan sesuai oleh Bank dan tidak melanggar Prinsip Syariah pada bila-bila masa
+dengan memberi notis bertulis awal dua puluh satu (21) hari kalendar sebelum melaksanakan perubahan.
+Perubahan akan berlaku pada tarikh yang dinyatakan dalam notis. Dalam situasi di mana perubahan
+dilakukan sesuai dengan undang-undang atau peraturan, pemberitahuan untuk jangka waktu yang lebih
+pendek atau pemberitahuan segera akan diberikan kepada anda.
+25.2 Notis akan diberikan kepada anda sesuai dengan Klausa 24. Sekiranya anda tidak menerima
+perubahan, anda harus segera berhenti menggunakan dan menutup MIGA-i anda.
+26. PENTADBIRAN UNDANG-UNDANG DAN HAKIM
+26.1 Undang-Undang Malaysia akan mentadbir dan terpakai bagi Terma dan Syarat, MIGA-i dan semua
+transaksi yang berkaitan dengannya. Sehubungan dengan tindakan undang-undang atau prosiding yang
+timbul dari atau berkaitan dengan Terma dan Syarat ini ("Prosiding"), setiap pihak secara tidak dapat
+ditundukkan kepada bidang kuasa eksklusif pengadilan Malaysia dan mengetepikan keberatan terhadap
+Prosiding di mana-mana mahkamah tersebut alasan tempat atau dengan alasan bahawa Prosiding telah
+dibawa dalam forum yang tidak selesa.
+27. PENDEDAHAN MAKLUMAT PELANGGAN DAN DATA PERIBADI
+27.1 Untuk tujuan pemasaran dan / atau penjualan silang, anda bersetuju dan memberi kuasa kepada
+Bank untuk mengumpulkan, memproses, mendedahkan, memindahkan, menyelenggara dan menyimpan
+data peribadi anda yang anda berikan kepada atau yang telah diperoleh oleh Bank mengenai anda
+Page | 38
+dan MIGA-i anda. Anda bersetuju dan bersetuju agar Bank mendedahkan keadaan kewangan anda,
+perincian MIGA-i dan hubungan dengan Bank:
+a) untuk mematuhi perintah atau permintaan yang dibuat oleh agensi penguatkuasaan di Malaysia
+berdasarkan undang-undang bertulis untuk tujuan penyiasatan atau pendakwaan terhadap suatu
+kesalahan;
+b) dikehendaki oleh Lembaga Hasil Dalam Negeri Malaysia di bawah seksyen 81 Akta Cukai Pendapatan
+1967 untuk tujuan mempermudah pertukaran maklumat menurut pengaturan atau perjanjian
+percukaian yang berkuat kuasa di bawah seksyen 132 atau 132A Akta Cukai Pendapatan 1967;
+c) berkaitan dengan pelaksanaan tugas penyeliaan oleh Pihak Berkuasa;
+d) berkaitan dengan pelaksanaan fungsi terpusat, yang meliputi audit, risiko,pengurusan, kewangan
+atau teknologi maklumat atau fungsi terpusat lainnya dalam kelompok perusahaan Bank;
+e) berkaitan dengan usaha wajar pelaksanaan korporat yang diluluskan oleh lembaga pengarah Bank
+sehubungan dengan penggabungan dan pemerolehan, penjanaan modal atau penjualan aset atau
+keseluruhan atau sebahagian perniagaan;
+f) jika perlu untuk menjalankan dan menyelesaikan transaksi atau arahan atau Amanat lain yang
+diberikan oleh anda.
+27.2 Selanjutnya, anda juga bersetuju dan bersetuju untuk Bank untuk menyatakan keadaan kewangan
+anda, perincian MIGA-i dan hubungan dengan Bank kepada:
+a) Pihak berkuasa di Malaysia dan di tempat lain untuk tujuan mematuhi syarat undang-undang,
+peraturan, kepatuhan dan pengurusan risiko termasuk untuk mematuhi Undang-Undang Pematuhan
+Pajak Akaun Asing AS ("FATCA") dan Piawaian Pelaporan Umum Organisasi Untuk Kerjasama dan
+Pembangunan Ekonomi ("CRS");
+b) Biro Kredit BNM, Cagamas Berhad, Credit Guarantee Corporation Malaysia Berhad dan biro kredit
+yang ditubuhkan di bawah Akta Agensi Pelaporan Kredit 2010;
+c) entiti di bawah Kumpulan Maybank;
+d) pihak yang menyediakan perkhidmatan (termasuk vendor penyumberan luar, peguam, penama,
+penjaga, simpanan sekuriti terpusat, pendaftar, ejen pungutan hutang dan bank perantara /
+koresponden) kepada Bank;
+e) ejen, perunding dan penasihat profesional Bank;
+f) Bank atau mana-mana penerima hak Kumpulan Maybank; dan
+g) mana-mana orang atau entiti lain kepada siapa pengungkapan itu diizinkan atau diharuskan oleh
+undang-undang, peraturan atau arahan pemerintah.
+27.3 Kebijakan Privasi Kumpulan Maybank, seperti yang dipinda dari semasa ke semasa, digabungkan
+dengan rujukan dan merupakan sebahagian daripada Terma dan Syarat ini. Itu akan berlaku untuk semua
+data pribadi anda yang anda berikan kepada Bank atau entiti dalam Kumpulan Maybank. Anda boleh
+mengakses salinan dasar privasi di www.maybank.com.my atau mendapatkan salinan dari mana- mana
+cawangan kami.
+27.4 Persetujuan anda di bawah perenggan ini akan bertahan dari kematian, kebangkrutan,
+ketidakupayaan, penamatan Terma dan Syarat ini dan penutupan MIGA-i anda.
+28 . FORCE MAJEURE
+28.1 Bank akan tidak bertanggungjawab kepada anda atau mana-mana pihak ketiga di atas sebarang
+kesulitan, kecederaan, perbelanjaan, liabiliti, ganti rugi, kehilangan dari keuntungan, pendapatan atau
+nama baik jika:
+a) Bank tidak dapat melaksanakan salah satu kewajibannya atau memberikan apa-apa perkhidmatan
+kerana Force Majeure; atau
+b) sekiranya pembayaran dikreditkan atau didebitkan dari MIGA-i menjadi tidak dapat diakses atau
+berkurang nilainya kerana Force Majeure.
+28.2 Jika mana-mana mata wang di mana Bank mesti membuat pembayaran diperolehi lagi disebabkan
+untuk sebab-sebab termasuk sekatan terhadap kebolehtukaran atau dipindah milik atau
+Page | 39
+Force Majeure, Bank boleh membuat pembayaran dalam apa-apa mata wang lain pada kadar
+pertukaran yang ditentukan oleh Bank.
+29. UNDANG-UNDANG ANTI RASUAH
+29 .1 Anda mesti setiap masa mengendalikan CASA dan / atau MIGA-i anda yang mematuhi Undang-
+Undang Anti Rasuah.
+30. AKTA PENCENGAHAN PENGGUBAHAN WANG HARAM
+30.1 Anda harus setiap saat memastikan bahawa tidak ada dana yang berpindah ke dan dari CASA dan /
+atau MIGA-i anda hasil dari, atau akan digunakan untuk kegiatan yang menyalahi undang-undang yang
+melanggar Undang-Undang Pencegahan Penggubahan Wang Haram.
+30.2 Anda berjanji bahawa anda tidak akan: -
+a) gunakan CASA dan / atau MIGA-i anda, secara langsung atau tidak langsung, untuk transaksi yang
+melibatkan aktiviti yang menyalahi undang-undang ;
+b) menyembunyikan atau menyamarkan hakikat sebenar apa-apa aktiviti yang tidak sah; atau
+c) menggunakan wang dari CASA dan / atau MIGA-i anda untuk sebarang pengubahan wang haram
+atau tujuan lain yang menyalahi undang-undang .
+31. SEKATAN
+31.1 Anda mengesahkan dan menyatakan bahawa anda bukan individu yang (a) saat ini tunduk pada
+Sanction Laws atau (b) yang berada atau tinggal di suatu negara atau wilayah yang menjadisubjek
+Sanction Laws.
+31.2 Anda tidak akan secara langsung atau tidak langsung, menyediakan dengan cara apa pun hasil dari
+CASA dan / atau MIGA-i kepada mana-mana individu atau entiti yang tunduk pada Sanction Laws atau
+untuk tujuan yang disetujui untuk kepentingan negara / wilayah yang dilarang.
+31.3 Anda mengakui bahawa Bank mungkin tidak dapat memproses transaksi yang terjejas yang
+melibatkan atau diduga melibatkan pelanggaran Sanction Laws atau syarat-syarat yang dikenakan oleh
+mana-mana pihak berkuasa yang mempunyai bidang kuasa terhadap Bank atau transaksi yang terjejas.
+Bank akan tidak bertanggungjawab dalam apa jua cara untuk sebarang kegagalan atau kelewatan dalam
+memproses apa-apa transaksi berkaitan.
