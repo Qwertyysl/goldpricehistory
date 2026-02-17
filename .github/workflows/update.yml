@@ -15,25 +15,32 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
 
       - name: Install jq
-        run: sudo apt-get update && sudo apt-get install -y jq
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y jq
 
-      - name: Ensure JSON files exist
+      - name: Ensure files exist
         run: |
           [ -f gold_7d.json ] || echo "[]" > gold_7d.json
           [ -f gold_24h.json ] || echo "[]" > gold_24h.json
           [ -f latest.json ] || echo "{}" > latest.json
 
-      - name: Fetch and extract gold price
+      - name: Fetch gold price (browser mimic mode)
         run: |
           echo "Fetching gold API..."
 
           RESPONSE=$(curl -s -L \
-            -H "User-Agent: Mozilla/5.0" \
-            -H "Accept: application/json" \
+            --http1.1 \
+            --compressed \
+            --connect-timeout 10 \
+            --max-time 20 \
+            -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36" \
+            -H "Accept: application/json, text/plain, */*" \
+            -H "Accept-Language: en-US,en;q=0.9" \
+            -H "Referer: https://goldprice.org/" \
+            -H "Origin: https://goldprice.org" \
             https://data-asg.goldprice.org/dbXRates/MYR)
 
           if [ -z "$RESPONSE" ]; then
@@ -41,25 +48,23 @@ jobs:
             exit 0
           fi
 
-          echo "$RESPONSE" | jq . > /dev/null 2>&1
-          if [ $? -ne 0 ]; then
-            echo "Invalid JSON received."
+          if echo "$RESPONSE" | grep -q "<html"; then
+            echo "Blocked (HTML returned)."
             exit 0
           fi
 
-          # Try all possible price fields
+          echo "$RESPONSE" | jq . > /dev/null 2>&1 || exit 0
+
           PRICE=$(echo "$RESPONSE" | jq -r '
             .items[0].y //
             .items[0].xauPrice //
             .items[0].price //
             .price //
-            .data[0].price //
             empty
           ')
 
           if [ -z "$PRICE" ]; then
-            echo "Price not found. Printing structure:"
-            echo "$RESPONSE" | jq .
+            echo "Price not found."
             exit 0
           fi
 
@@ -85,19 +90,16 @@ jobs:
 
           jq '.[-144:]' gold_7d.json > gold_24h.json
 
-      - name: Commit and push
+      - name: Commit and push if changed
         run: |
           git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-
-          git pull --rebase
+          git config user.email "actions@github.com"
 
           git add gold_7d.json gold_24h.json latest.json
 
           if git diff --cached --quiet; then
             echo "No changes."
-            exit 0
+          else
+            git commit -m "Auto update gold data"
+            git push
           fi
-
-          git commit -m "Auto update gold data"
-          git push
