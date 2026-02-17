@@ -1,4 +1,7 @@
-name: Update Gold Prices
+name: Update Gold Data
+
+permissions:
+  contents: write
 
 on:
   schedule:
@@ -6,40 +9,54 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-prices:
+  update:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
 
-      - name: Fetch and process data
+      - name: Install jq
         run: |
-          # 1. Fetch data
-          URL="https://data-asg.goldprice.org/dbXRates/MYR"
-          response=$(curl -s -H "User-Agent: Mozilla/5.0" -H "Accept: application/json" "$URL")
+          sudo apt-get update
+          sudo apt-get install -y jq
 
-          # 2. Validate response
-          if [[ -z "$response" ]]; then
-            echo "Error: Empty response"
-            exit 0
-          fi
-          
-          if [[ "$response" == *"<html>"* || "$response" == *"<!DOCTYPE"* ]]; then
-            echo "Error: HTML content detected"
-            exit 0
-          fi
-          
-          if ! echo "$response" | jq empty > /dev/null 2>&1; then
-            echo "Error: Invalid JSON"
+      - name: Ensure files exist
+        run: |
+          [ -f gold_7d.json ] || echo "[]" > gold_7d.json
+          [ -f gold_24h.json ] || echo "[]" > gold_24h.json
+          [ -f latest.json ] || echo "{}" > latest.json
+
+      - name: Fetch gold price (auto-detect structure)
+        run: |
+          echo "Fetching gold API..."
+          RESPONSE=$(curl -s -L \
+            --connect-timeout 10 \
+            --max-time 20 \
+            -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64)" \
+            -H "Accept: application/json,text/plain,*/*" \
+            https://data-asg.goldprice.org/dbXRates/MYR)
+
+          if [ -z "$RESPONSE" ]; then
+            echo "Empty response."
             exit 0
           fi
 
-          # 3. Extract price and timestamp
-          # Try extraction paths
-          PRICE=$(echo "$response" | jq -r '
+          if echo "$RESPONSE" | grep -q "<html"; then
+            echo "Blocked (HTML returned)."
+            # Optional: Print first few lines to debug
+            echo "$RESPONSE" | head -n 5
+            exit 0
+          fi
+
+          echo "$RESPONSE" | jq . > /dev/null 2>&1
+          if [ $? -ne 0 ]; then
+            echo "Invalid JSON."
+            echo "$RESPONSE" | head -n 5
+            exit 0
+          fi
+
+          # Flexible extraction attempt
+          PRICE=$(echo "$RESPONSE" | jq -r '
             .items[0].y // 
             .items[0].xauPrice // 
             .items[0].price // 
@@ -47,62 +64,54 @@ jobs:
             empty
           ')
           
-          TS=$(echo "$response" | jq -r '
+          TIMESTAMP=$(echo "$RESPONSE" | jq -r '
             .items[0].x // 
             .items[0].timestamp // 
             .timestamp // 
-            empty
+            (now | floor)
           ')
-          
-          if [[ -z "$PRICE" || "$PRICE" == "null" ]]; then
-            echo "Error: Could not extract price"
+
+          if [ -z "$PRICE" ] || [ "$PRICE" = "null" ]; then
+            echo "Price not found in JSON."
+            echo "DEBUG STRUCTURE:"
+            echo "$RESPONSE" | jq .
             exit 0
           fi
 
-          # Fallback timestamp (current time in seconds if not found)
-          if [[ -z "$TS" || "$TS" == "null" ]]; then
-            TS=$(date +%s)
+          NEW=$(jq -n \
+            --arg ts "$TIMESTAMP" \
+            --arg pr "$PRICE" \
+            '{timestamp: ($ts|tonumber), price: ($pr|tonumber)}')
+          
+          echo "New data: $NEW"
+          
+          # Save latest
+          echo "$NEW" > latest.json
+
+          if [ ! -s gold_7d.json ]; then echo "[]" > gold_7d.json; fi
+          
+          LAST_TS=$(jq '.[-1].timestamp // 0' gold_7d.json)
+          CURRENT_TS=$(echo "$NEW" | jq '.timestamp')
+
+          if [ "$CURRENT_TS" = "$LAST_TS" ]; then
+            echo "Duplicate timestamp. Skip append."
+            exit 0
           fi
 
-          echo "Extracted Price: $PRICE"
-          echo "Extracted Timestamp: $TS"
-
-          # 4. Create/Update latest.json
-          # Create a temporary file for the new object
-          # Use jq to ensure safe JSON creation
-          jq -n --arg price "$PRICE" --arg ts "$TS" \
-            '{"price": ($price|tonumber? // $price), "timestamp": ($ts|tonumber? // $ts)}' > latest.json
-
-          # 5. Update gold_7d.json (history)
-          if [[ ! -f gold_7d.json ]]; then
-            echo "[]" > gold_7d.json
-          fi
-
-          # Append, unique by timestamp, sort, and keep last 1008 records
-          jq --arg price "$PRICE" --arg ts "$TS" \
-             '. + [{"price": ($price|tonumber? // $price), "timestamp": ($ts|tonumber? // $ts)}] | unique_by(.timestamp) | sort_by(.timestamp) | .[-1008:]' \
-             gold_7d.json > gold_7d.json.tmp && mv gold_7d.json.tmp gold_7d.json
-
-          # 6. Create gold_24h.json (last 144 records from history)
+          jq --argjson new "$NEW" '. += [$new]' gold_7d.json > temp.json
+          jq '.[-1008:]' temp.json > gold_7d.json
+          rm temp.json
+          
           jq '.[-144:]' gold_7d.json > gold_24h.json
 
-      - name: Commit and push changes
+      - name: Commit and push if changed
         run: |
-          # Check if data was actually generated (files might not exist on first run if API failed)
-          if [[ ! -f latest.json ]]; then
-            echo "No latest.json found. Data fetch likely failed or skipped. Skipping commit."
-            exit 0
-          fi
-
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          
-          git add latest.json gold_7d.json gold_24h.json
-          
-          # Only commit if there are changes
-          if git diff --staged --quiet; then
-            echo "No changes to commit"
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add gold_7d.json gold_24h.json latest.json
+          if git diff --cached --quiet; then
+            echo "No changes."
           else
-            git commit -m "Update gold prices: $(date -u)"
+            git commit -m "Auto update gold data"
             git push
           fi
