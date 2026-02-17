@@ -26,6 +26,9 @@ jobs:
           [ -f gold_7d.json ] || echo "[]" > gold_7d.json
           [ -f gold_24h.json ] || echo "[]" > gold_24h.json
           [ -f latest.json ] || echo "{}" > latest.json
+          [ -f miga_latest.json ] || echo "{}" > miga_latest.json
+
+# ================= GOLD SECTION =================
 
       - name: Fetch gold price (convert to RM/g)
         run: |
@@ -36,24 +39,13 @@ jobs:
             --compressed \
             --connect-timeout 10 \
             --max-time 20 \
-            -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120 Safari/537.36" \
+            -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36" \
             -H "Accept: application/json, text/plain, */*" \
-            -H "Accept-Language: en-US,en;q=0.9" \
             -H "Referer: https://goldprice.org/" \
-            -H "Origin: https://goldprice.org" \
             https://data-asg.goldprice.org/dbXRates/MYR)
 
-          if [ -z "$RESPONSE" ]; then
-            echo "Empty response."
-            exit 0
-          fi
-
-          if echo "$RESPONSE" | grep -q "<html"; then
-            echo "Blocked (HTML returned)."
-            exit 0
-          fi
-
-          echo "$RESPONSE" | jq . > /dev/null 2>&1 || exit 0
+          if [ -z "$RESPONSE" ]; then exit 0; fi
+          if echo "$RESPONSE" | grep -q "<html"; then exit 0; fi
 
           RAW_PRICE=$(echo "$RESPONSE" | jq -r '
             .items[0].y //
@@ -63,15 +55,9 @@ jobs:
             empty
           ')
 
-          if [ -z "$RAW_PRICE" ]; then
-            echo "Price not found."
-            exit 0
-          fi
+          if [ -z "$RAW_PRICE" ]; then exit 0; fi
 
-          # Convert MYR per troy ounce -> MYR per gram
           PRICE=$(echo "$RAW_PRICE / 31.1034768" | bc -l)
-
-          # Round to 2 decimal places
           PRICE=$(printf "%.2f" "$PRICE")
 
           TIMESTAMP=$(date +%s)
@@ -80,8 +66,6 @@ jobs:
             --arg ts "$TIMESTAMP" \
             --arg pr "$PRICE" \
             '{timestamp: ($ts|tonumber), price: ($pr|tonumber)}')
-
-          echo "New data: $NEW"
 
           echo "$NEW" > latest.json
 
@@ -96,16 +80,74 @@ jobs:
 
           jq '.[-144:]' gold_7d.json > gold_24h.json
 
+
+# ================= MIGA SECTION =================
+
+      - name: Fetch MIGA below 100g
+        run: |
+          echo "Fetching MIGA page..."
+
+          HTML=$(curl -s -L \
+            --http1.1 \
+            --compressed \
+            --connect-timeout 10 \
+            --max-time 20 \
+            -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36" \
+            -H "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8" \
+            -H "Accept-Language: en-US,en;q=0.9" \
+            -H "Referer: https://www.google.com/" \
+            https://www.maybank2u.com.my/maybank2u/malaysia/en/personal/rates/gold_and_silver.page)
+
+          if [ -z "$HTML" ]; then
+            echo "Empty MIGA HTML."
+            exit 0
+          fi
+
+          if echo "$HTML" | grep -qi "access denied"; then
+            echo "Blocked by Maybank."
+            exit 0
+          fi
+
+          # Extract row for below 100g
+          ROW=$(echo "$HTML" | tr '\n' ' ' | grep -oP '<tr>\s*<td>\s*For\s*below\s*100\s*grams.*?<\/tr>')
+
+          if [ -z "$ROW" ]; then
+            echo "Below 100g row not found."
+            exit 0
+          fi
+
+          SELL=$(echo "$ROW" | grep -oP '<td>\K[0-9]+\.[0-9]+' | sed -n '1p')
+          BUY=$(echo "$ROW" | grep -oP '<td>\K[0-9]+\.[0-9]+' | sed -n '2p')
+
+          if [ -z "$SELL" ] || [ -z "$BUY" ]; then
+            echo "Price extraction failed."
+            exit 0
+          fi
+
+          TIMESTAMP=$(date +%s)
+
+          MIGA=$(jq -n \
+            --arg ts "$TIMESTAMP" \
+            --arg sell "$SELL" \
+            --arg buy "$BUY" \
+            '{timestamp: ($ts|tonumber), sell: ($sell|tonumber), buy: ($buy|tonumber)}')
+
+          echo "$MIGA" > miga_latest.json
+          echo "MIGA updated: $MIGA"
+
+
+# ================= COMMIT =================
+
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
 
-          git add gold_7d.json gold_24h.json latest.json
+          git add gold_7d.json gold_24h.json latest.json miga_latest.json
 
           if git diff --cached --quiet; then
             echo "No changes."
           else
-            git commit -m "Auto update gold data (RM/g)"
+            git commit -m "Auto update gold + MIGA data"
             git push
           fi
