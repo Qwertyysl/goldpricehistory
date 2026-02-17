@@ -11,9 +11,14 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
+
     steps:
+      # Checkout with full history (important for rebase)
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          persist-credentials: true
 
       - name: Install jq
         run: |
@@ -26,14 +31,15 @@ jobs:
           [ -f gold_24h.json ] || echo "[]" > gold_24h.json
           [ -f latest.json ] || echo "{}" > latest.json
 
-      - name: Fetch gold price (auto-detect structure)
+      - name: Fetch gold price
         run: |
           echo "Fetching gold API..."
+
           RESPONSE=$(curl -s -L \
             --connect-timeout 10 \
             --max-time 20 \
-            -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64)" \
-            -H "Accept: application/json,text/plain,*/*" \
+            -H "User-Agent: Mozilla/5.0" \
+            -H "Accept: application/json" \
             https://data-asg.goldprice.org/dbXRates/MYR)
 
           if [ -z "$RESPONSE" ]; then
@@ -43,38 +49,32 @@ jobs:
 
           if echo "$RESPONSE" | grep -q "<html"; then
             echo "Blocked (HTML returned)."
-            # Optional: Print first few lines to debug
-            echo "$RESPONSE" | head -n 5
             exit 0
           fi
 
           echo "$RESPONSE" | jq . > /dev/null 2>&1
           if [ $? -ne 0 ]; then
             echo "Invalid JSON."
-            echo "$RESPONSE" | head -n 5
             exit 0
           fi
 
-          # Flexible extraction attempt
           PRICE=$(echo "$RESPONSE" | jq -r '
-            .items[0].y // 
-            .items[0].xauPrice // 
-            .items[0].price // 
-            .price // 
+            .items[0].y //
+            .items[0].xauPrice //
+            .items[0].price //
+            .price //
             empty
           ')
-          
+
           TIMESTAMP=$(echo "$RESPONSE" | jq -r '
-            .items[0].x // 
-            .items[0].timestamp // 
-            .timestamp // 
+            .items[0].x //
+            .items[0].timestamp //
+            .timestamp //
             (now | floor)
           ')
 
-          if [ -z "$PRICE" ] || [ "$PRICE" = "null" ]; then
-            echo "Price not found in JSON."
-            echo "DEBUG STRUCTURE:"
-            echo "$RESPONSE" | jq .
+          if [ -z "$PRICE" ]; then
+            echo "Price not found."
             exit 0
           fi
 
@@ -82,14 +82,11 @@ jobs:
             --arg ts "$TIMESTAMP" \
             --arg pr "$PRICE" \
             '{timestamp: ($ts|tonumber), price: ($pr|tonumber)}')
-          
+
           echo "New data: $NEW"
-          
-          # Save latest
+
           echo "$NEW" > latest.json
 
-          if [ ! -s gold_7d.json ]; then echo "[]" > gold_7d.json; fi
-          
           LAST_TS=$(jq '.[-1].timestamp // 0' gold_7d.json)
           CURRENT_TS=$(echo "$NEW" | jq '.timestamp')
 
@@ -98,16 +95,19 @@ jobs:
             exit 0
           fi
 
-          jq --argjson new "$NEW" '. += [$new]' gold_7d.json > temp.json
+          jq ". += [$NEW]" gold_7d.json > temp.json
           jq '.[-1008:]' temp.json > gold_7d.json
           rm temp.json
-          
+
           jq '.[-144:]' gold_7d.json > gold_24h.json
-          
-      - name: Commit and push (safe mode)
+
+      - name: Commit and push if changed
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
+
+          # Sync with remote first (prevent conflict)
+          git pull origin main --rebase
 
           git add gold_7d.json gold_24h.json latest.json
 
@@ -117,13 +117,4 @@ jobs:
           fi
 
           git commit -m "Auto update gold data"
-
-          # Fetch latest remote state
-          git fetch origin main
-
-          # Rebase on top of remote
-          git rebase origin/main
-
-          # Push safely
-          git push origin main
-
+          git push origin HEAD:main
