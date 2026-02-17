@@ -27,7 +27,7 @@ jobs:
           [ -f gold_24h.json ] || echo "[]" > gold_24h.json
           [ -f latest.json ] || echo "{}" > latest.json
 
-      - name: Fetch gold price
+      - name: Fetch and extract gold price
         run: |
           echo "Fetching gold API..."
 
@@ -36,12 +36,30 @@ jobs:
             -H "Accept: application/json" \
             https://data-asg.goldprice.org/dbXRates/MYR)
 
-          echo "$RESPONSE" | jq . > /dev/null 2>&1 || exit 0
+          if [ -z "$RESPONSE" ]; then
+            echo "Empty response."
+            exit 0
+          fi
 
-          PRICE=$(echo "$RESPONSE" | jq -r '.items[0].y // .items[0].xauPrice // .items[0].price // .price')
+          echo "$RESPONSE" | jq . > /dev/null 2>&1
+          if [ $? -ne 0 ]; then
+            echo "Invalid JSON received."
+            exit 0
+          fi
 
-          if [ -z "$PRICE" ] || [ "$PRICE" = "null" ]; then
-            echo "Price not found."
+          # Try all possible price fields
+          PRICE=$(echo "$RESPONSE" | jq -r '
+            .items[0].y //
+            .items[0].xauPrice //
+            .items[0].price //
+            .price //
+            .data[0].price //
+            empty
+          ')
+
+          if [ -z "$PRICE" ]; then
+            echo "Price not found. Printing structure:"
+            echo "$RESPONSE" | jq .
             exit 0
           fi
 
@@ -70,7 +88,7 @@ jobs:
       - name: Commit and push
         run: |
           git config user.name "github-actions"
-          git config user.email "actions@github.com"
+          git config user.email "github-actions@github.com"
 
           git pull --rebase
 
