@@ -88,6 +88,12 @@ jobs:
 
       - name: Commit and push changes
         run: |
+          # Check if data was actually generated (files might not exist on first run if API failed)
+          if [[ ! -f latest.json ]]; then
+            echo "No latest.json found. Data fetch likely failed or skipped. Skipping commit."
+            exit 0
+          fi
+
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
